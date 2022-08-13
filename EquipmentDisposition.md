@@ -4,7 +4,8 @@ The Hix Prohibition Rule applies to Jefferson (Jeff) and/or Roberta (Bert) Hix a
 Under no circumstances will Jefferson (Jeff) and/or Roberta (Bert) Hix has any opportunity to gain control of anything. They and/or any of their 
 proxies are prohibited from obtaining any disposed possessions through estate sale, auction, or other means of disposition.
 
-KEH (https://www.keh.com) is a buyer and seller of used camera equipment in Smyrna, Georgia and will be referenced as KEH.
+KEH (https://www.keh.com/) is a buyer and seller of used camera equipment in Smyrna, Georgia and will be referenced as KEH.<br>
+B&H (https://www.bhphotovideo.com/) is a major retailer, brick and mortar store and online presence, of photography, video, televisions, entertainment systems, computer and accessories, optics, smartphones,tablets and accessories, based in New York City, New York. The company will be referred to as B&H. The company follows the Jewish sabbath and holy holidays. Their hours of operation can be found at: https://www.bhphotovideo.com/find/HelpCenter/StoreInfo.jsp
 
 ## Camera equipment
 - Canon A-1, Motor Drive MA: these have my Social Security Number engraved. It must be made illegible before disposition. I hate to
