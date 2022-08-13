@@ -1,5 +1,5 @@
 # Obituary: Ralph Hightower, Jr
-## Early Life
+## Bio
 Ralph Maxwell Hightower Jr was born to Ralph Hightower Sr (Mac) and Marilyn Fox Hightower on May 23, 1954 in Bamberg, SC. Surviving are his 
 wife, Paula Hightower, formerly Paula Lynn Lambert from Harlem, GA, sister Elizabeth Woodall living in Bamberg, SC, and brother Chester 
 Hightower living in Aiken,  SC.  Although Ralph and Paula had no children,  they adopted and bred Beagles, with many as members of their 
