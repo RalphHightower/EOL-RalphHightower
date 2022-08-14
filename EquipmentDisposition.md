@@ -1,7 +1,7 @@
 # Equipment Disposition 
 ## The Hix Prohibition 
 The Hix Prohibition Rule applies to Jefferson (Jeff) and/or Roberta (Bert) Hix and/or any proxies representing either person. 
-Under no circumstances will Jefferson (Jeff) and/or Roberta (Bert) Hix has any opportunity to gain control of anything. They and/or any of their 
+Under no circumstances will Jefferson (Jeff) and/or Roberta (Bert) Hix have any opportunity to gain control of anything. They and/or any of their 
 proxies are prohibited from obtaining any disposed possessions through estate sale, auction, or other means of disposition.
 
 KEH (https://www.keh.com/) is a buyer and seller of used camera equipment in Smyrna, Georgia and will be referenced as KEH.<br>
