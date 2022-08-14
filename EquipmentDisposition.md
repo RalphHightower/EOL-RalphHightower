@@ -23,7 +23,7 @@ Either donate the computers to the University of South Carolina College of Engin
   - Sun Tape Drive 
   - SCSI Drive Cabinet 
 
-## HP (Hewlett-Packard) Calculator
+## HP (Hewlett-Packard) Calculators
 If any calculators are engraved with my SSN, it must be rendered illegible before donation, or gifting; otherwise, it may be recycled ♻️. Check if the University of South Carolina College of Engineering or a museum is willing to accept the donation. 
 - HP-12C
 - HP-12C Platinum 
