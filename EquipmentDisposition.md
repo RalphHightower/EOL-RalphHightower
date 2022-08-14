@@ -37,6 +37,9 @@ If any calculators are engraved with my SSN, it must be rendered illegible befor
 - HP-48GX
 - HP-67
 
+## Computer Science Books
+May be donated to the University of South Carolina College of Engineering
+- Art of Computer Science (3 volume set) by Donald Knuth 
 
 ## Camera equipment
 - Canon A-1, Motor Drive MA: these have my Social Security Number engraved. Check with KEH to see if they will resell it without the SSN. It must be rendered illegible before disposition. I hate to have it destroyed; but ...
