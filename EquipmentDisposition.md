@@ -46,8 +46,8 @@ If any calculators are engraved with my SSN, it must be rendered illegible befor
 - HP-48GX
 - HP-67
 
-## Computer Science Books
-May be donated to the University of South Carolina College of Engineering
+## Computer Science : Books 📚:
+May be donated to the University of South Carolina College of Engineering, or Lexington County Library. 
 - Art of Computer Science (3 volume set) by Donald Knuth 
 
 ## Camera equipment
