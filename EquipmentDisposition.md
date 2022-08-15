@@ -3,8 +3,10 @@
 The Hix Prohibition Rule applies to Jefferson (Jeff) and/or Roberta (Bert) Hix and/or any proxies representing either person. Under no circumstances will Jefferson and/or Roberta Hix have any opportunity to gain control of anything. They and/or any of their proxies, designated or clandestine, are prohibited from obtaining any disposed possessions through estate sale, auction, or other means of disposition.
 
 ## Definitions
-- must: instructions are strictly adhered to without any deviations. No ifs, ands, or buts.
-- may: it is permitted 
+| word | definition |
+|------|------------|
+| must | instructions are strictly adhered to without any deviations. No ifs, ands, or buts. |
+| may | it is permitted |
 
 ## Online Photography Retailers 
 [KEH](https://www.keh.com) (https://www.keh.com/) is a buyer and seller of **used camera equipment** in Smyrna, Georgia and will be referenced as KEH.<br>
