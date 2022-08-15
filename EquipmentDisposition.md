@@ -32,6 +32,7 @@ Either donate the computers to the University of South Carolina College of Engin
 If any calculators are engraved with my SSN, it must be rendered illegible before donation, or gifting; otherwise, it may be recycled ♻️. Check if the University of South Carolina College of Engineering or a museum is willing to accept the donation. 
 - HP-12C
 - HP-12C Platinum 
+- HP-16C
 - HP-17B
 - HP-41CV 
 - HP-41CX
