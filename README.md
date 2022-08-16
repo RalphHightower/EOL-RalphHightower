@@ -1,9 +1,10 @@
 # EOL-RalphHightower
 End Of Life information for survivor and/or executors, probate
 
-- Accounts w/o passwords
-- Songs for Service
-- Obituary
-- Equipment Disposition
-- Computer Settings
-- Network Settings
+- [Obituary](Obituary.md)
+- [Songs for Service](SongsForService.md)
+- [Accounts w/o passwords](Accounts.md)
+
+- [Equipment Disposition](EquipmentDisposition.md)
+- [Computer Settings](ComputerSettings.md)
+- [Network Settings](NetworkSettings.md)
