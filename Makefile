@@ -1,4 +1,4 @@
-files: Obituary EquipmentDisposition Assets
+files: Accounts Assets ComputerSettings EquipmentDistrbution NetworkSettings Obituary SongsForService SongsForService
 <target>: Obituary.docx EquipmentDisposition.docx Assets.docx 
 
 dest: $$.docx
