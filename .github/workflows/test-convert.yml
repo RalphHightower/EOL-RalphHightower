@@ -12,9 +12,9 @@ jobs:
         with:
           args: >- # allows you to break string into multiple lines
             --standalone
-            --output=checklist.docx
-            checklist.md
+            --output=Obituary.docx
+            Obituary.md
       - uses: actions/upload-artifact@master
         with:
-          name: checklist.docx
-          path: checklist.docx
+          name: Obituary.docx
+          path: Obituary.docx
