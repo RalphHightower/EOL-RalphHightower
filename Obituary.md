@@ -1,7 +1,8 @@
 # Obituary: Ralph M. Hightower, Jr
 *(headings are for organizational purposes and can be deleted)*
 ## Bio
-On the [(morning|afternoon|evening) of date] Ralph Maxwell Hightower, Jr. passed away at [location] [optional: due to (cause of death)] [comforted by family members present]. Ralph was [age]. He was born in Bamberg, SC on May 23, 1954 as the first child and preceded in death by parents, Ralph (Mac) Maxwell Hightower Sr. and Marilyn Fox Hightower. <br>
+Ralph M. Hightower, Jr. CHAPIN. -
+The [(morning|afternoon|evening) of date] Ralph Maxwell Hightower, Jr. passed away at [location] [optional: due to (cause of death)] [comforted by family members present]. Ralph was [age]. He was born in Bamberg, SC on May 23, 1954 as the first child and preceded in death by parents, Ralph (Mac) Maxwell Hightower Sr. and Marilyn Fox Hightower. <br>
 Surviving are his wife, Paula Hightower, formerly Paula Lynn Lambert from Harlem, GA, sister Elizabeth Hightower Woodall (Larry) living in Bamberg, SC, and brother Arthur Chester (Chester) Hightower (Tammy) living in Aiken, SC. Although Ralph and Paula had no children, they have adopted and bred Beagles, with many as members of their household; some have competed in obedience, show confirmation, and performance (Fast CAT). He rejoins those Beagles from the past that have led the way and patiently waiting on the other side of the Rainbow Bridge. <br>
 He graduated from Bamberg-Ehrhardt High School in 1971 and the University of South Carolina with a BS degree in Computer Science in 1976. He played tenor saxophone in the Bamberg-Ehrhardt Marching Band and Concert Band and a few years in the USC Marching Band and Concert Band and baritone sax in the jazz band. 
 He was also a DJ at WUSC-AM playing rock music; it wasn't called classic rock back then. Of note, he was on the air when then Vice President Spiro Agnew resigned. 
