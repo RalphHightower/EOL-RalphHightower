@@ -22,3 +22,10 @@ Ralph and Paula have adopted and bred Beagles as members of the family with some
 |---------|----------|
 | LinkedIn Profile | https://www.linkedin.com/in/ralphhightower/ |
 | Photography Portfolio | https://www.flickr.com/photos/ralphhightower/ |
+
+## Service 
+Rembrance service will be held by [funeral home] on [date/time] at [location] with burial at [location].
+
+## Memorials
+Donations may be made to the American Kennel Club Canine Health Foundation in memory of Ralph Hightower, Jr. 
+
