@@ -13,14 +13,14 @@ jobs:
           args: >- # allows you to break string into multiple lines
               for md in Obituary EquipmentDistrbution Assets Accounts ComputerSettings NetworkSettings
               do:
-              --standalone
-              --output=$md.docx
-              $md.md
-              done
+                  --standalone
+                  --output=$md.docx
+              $md.md;
+              done;
       - uses: actions/upload-artifact@master
         with:
-           for md in Obituary EquipmentDistrbution Assets Accounts ComputerSettings NetworkSettings
+           for md in Obituary EquipmentDistrbution Assets Accounts ComputerSettings NetworkSettings;
            do:
                 name: $md.docx
                 path: $md.docx
-            done
+            done;
