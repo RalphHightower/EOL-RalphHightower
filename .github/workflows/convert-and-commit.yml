@@ -17,8 +17,8 @@ jobs:
           args: >- # allows you to break string into multiple lines
             for md in Obituary EquipmentDistrbution Assets Accounts ComputerSettings NetworkSettings;
             do:
-               --standalone
-               --output=$md.docx
+               --standalone;
+               --output=$md.docx;
             $md.md;
             done;
       - name: ⤴ Commit updated version
