@@ -8,6 +8,8 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-latest
     steps:
+        for md in Obituary EquipmentDistrbution Assets Accounts ComputerSettings NetworkSettings
+        do
       - uses: actions/checkout@v2
         with:
           ref: ${{ github.event.push.head.ref }}
@@ -15,8 +17,8 @@ jobs:
         with:
           args: >- # allows you to break string into multiple lines
             --standalone
-            --output=Obituary.docx
-            Obituary.md
+            --output=$md.docx
+            $md.md
       - name: ⤴ Commit updated version
         run: |
           git config remote.origin.url 'https://${{secrets.GITHUB_TOKEN}}@github.com/RalphHightower/EOL-RalphHightower.git'
@@ -25,3 +27,4 @@ jobs:
           git add .
           git commit -am "update word"
           git push
+          done
