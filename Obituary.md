@@ -17,13 +17,16 @@ Ralph got interested in photography using his parent’s Polaroid Land Camera. A
 ### Beagles<br>
 Ralph and Paula have adopted and bred Beagles as members of the family with some competing in obedience; they each have put Companion Dog titles on four dogs. They have also competed in AKC confirmation putting Championship titles on a few.<br>
 
-| Content | Web Site |
-|---------|----------|
-| LinkedIn Profile | https://www.linkedin.com/in/ralphhightower/ |
-| Photography Portfolio | https://www.flickr.com/photos/ralphhightower/ |
-<br>
 ## Service <br>
 Remembrance service will be held by [funeral home] on [date/time] at [location] with internment at [location].<br>
 <br>
+
 ## Memorials<br>
-Donations may be made to the American Kennel Club Canine Health Foundation in memory of Ralph Hightower, Jr and their Beagle pack.
+Donations may be made to the American Kennel Club Canine Health Foundation in memory of Ralph Hightower, Jr and their Beagle pack.<br>
+
+| Content | Web Site |
+|---------|----------|
+| AKC Canine Health Foundation | https://www.akcchf.org/ |
+| LinkedIn Profile | https://www.linkedin.com/in/ralphhightower/ |
+| Photography Portfolio | https://www.flickr.com/photos/ralphhightower/ |
+<br>
