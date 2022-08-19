@@ -26,4 +26,4 @@ Ralph and Paula have adopted and bred Beagles as members of the family with some
 Remembrance service will be held by [funeral home] on [date/time] at [location] with internment at [location].<br>
 <br>
 ## Memorials<br>
-Donations may be made to the American Kennel Club Canine Health Foundation in memory of Ralph Hightower, Jr and their Beagle pack. <br>
+Donations may be made to the American Kennel Club Canine Health Foundation in memory of Ralph Hightower, Jr and their Beagle pack.
