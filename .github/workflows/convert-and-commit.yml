@@ -15,7 +15,7 @@ jobs:
       - uses: docker://pandoc/core:2.9
         with:
           args: >- # allows you to break string into multiple lines
-            for md in Obituary EquipmentDistrbution Assets Accounts ComputerSettings NetworkSettings
+            for md in Obituary EquipmentDistrbution Assets Accounts ComputerSettings NetworkSettings;
             do:
                --standalone
                --output=$md.docx
