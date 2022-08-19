@@ -8,17 +8,19 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-latest
     steps:
-        for md in Obituary EquipmentDistrbution Assets Accounts ComputerSettings NetworkSettings
-        do
+        
       - uses: actions/checkout@v2
         with:
           ref: ${{ github.event.push.head.ref }}
       - uses: docker://pandoc/core:2.9
         with:
           args: >- # allows you to break string into multiple lines
-            --standalone
-            --output=$md.docx
+            for md in Obituary EquipmentDistrbution Assets Accounts ComputerSettings NetworkSettings
+            do:
+               --standalone
+               --output=$md.docx
             $md.md
+            done
       - name: ⤴ Commit updated version
         run: |
           git config remote.origin.url 'https://${{secrets.GITHUB_TOKEN}}@github.com/RalphHightower/EOL-RalphHightower.git'
