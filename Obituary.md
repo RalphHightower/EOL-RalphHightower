@@ -1,5 +1,4 @@
 # Obituary: Ralph M. Hightower, Jr<br>
-*(headings are for organizational purposes and can be deleted)*<br>
 ## Bio<br>
 Ralph M. Hightower, Jr. CHAPIN, SC. -
 The [(morning|afternoon|evening) of date] Ralph Maxwell Hightower, Jr. passed away at [location] [optional: due to (cause of death)] [comforted by family members present]. Ralph was [age]. He was born in Bamberg, SC on May 23, 1954, as the first child and was preceded in death by his parents, Ralph (Mac) Maxwell Hightower Sr., and Marilyn Fox Hightower. <br>
