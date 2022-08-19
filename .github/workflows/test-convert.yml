@@ -11,10 +11,16 @@ jobs:
       - uses: docker://pandoc/core:2.9
         with:
           args: >- # allows you to break string into multiple lines
+          for md in Obituary EquipmentDistrbution Assets Accounts ComputerSettings NetworkSettings
+          do
             --standalone
-            --output=Obituary.docx
-            Obituary.md
+            --output=$md.docx
+            $md.md
+            done
       - uses: actions/upload-artifact@master
         with:
-          name: Obituary.docx
-          path: Obituary.docx
+            for md in Obituary EquipmentDistrbution Assets Accounts ComputerSettings NetworkSettings
+            do
+                name: $md.docx
+                path: $md.docx
+            done
