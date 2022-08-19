@@ -19,7 +19,7 @@ jobs:
             do:
                --standalone
                --output=$md.docx
-            $md.md
+            $md.md;
             done;
       - name: ⤴ Commit updated version
         run: |
