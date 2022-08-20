@@ -15,12 +15,12 @@ jobs:
       - uses: docker://pandoc/core:2.9
         with:
           args: >- # allows you to break string into multiple lines
-            for md in Obituary EquipmentDistrbution Assets Accounts ComputerSettings NetworkSettings;
-            do:
+          ${for(md)} {Obituary},{EquipmentDistrbution},{Assets},{Accounts},{ComputerSettings},{NetworkSettings}${:
                --standalone;
                --output=$md.docx;
-            $md.md;
-            done;
+               $md.md;
+          ${endfor}
+
       - name: ⤴ Commit updated version
         run: |
           git config remote.origin.url 'https://${{secrets.GITHUB_TOKEN}}@github.com/RalphHightower/EOL-RalphHightower.git'
