@@ -20,6 +20,6 @@ jobs:
       - uses: actions/upload-artifact@master
         with:
           for file in Obituary EquipmentDistrbution Assets Accounts ComputerSettings NetworkSettings
-             name: $file.docx
+            name: $file.docx
             path: $file.docx
            done;
