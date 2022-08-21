@@ -8,7 +8,7 @@ jobs:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v2
-      - uses: docker://pandoc/core:2.9
+      - uses: docker://pandoc/core:latest
         with:
           args: >- # allows you to break string into multiple lines
               for file in Obituary EquipmentDistrbution Assets Accounts ComputerSettings NetworkSettings
@@ -19,7 +19,8 @@ jobs:
               done;
       - uses: actions/upload-artifact@master
         with:
-          for file in Obituary EquipmentDistrbution Assets Accounts ComputerSettings NetworkSettings
-            name: $file.docx
-            path: $file.docx
-           done;
+            for file in Obituary EquipmentDistrbution Assets Accounts ComputerSettings NetworkSettings
+            do:
+                name: $file.docx
+                path: $file.docx
+            done;
