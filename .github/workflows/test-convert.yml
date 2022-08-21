@@ -14,10 +14,11 @@ jobs:
               for file in Obituary EquipmentDistrbution Assets Accounts ComputerSettings NetworkSettings
               do:
                   #--standalone
-                  --output=$file.docx
-                  $file.md
-                - uses: actions/upload-artifact@master
-                with:
-                name: $file.docx
-                path: $file.docx
+                  #--output=$file.docx
+                  #$file.md
+                #- uses: actions/upload-artifact@master
+                #with:
+                #name: $file.docx
+                #path: $file.docx
+                pandoc -o $file.docx -f markdown -t docx $file.md
               endfor
