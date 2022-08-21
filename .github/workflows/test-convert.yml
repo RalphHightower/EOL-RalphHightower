@@ -13,7 +13,7 @@ jobs:
           args: >- # allows you to break string into multiple lines
               for file in Obituary EquipmentDistrbution Assets Accounts ComputerSettings NetworkSettings
               do:
-                  --standalone
+                  #--standalone
                   --output=$file.docx
                   $file.md
                 - uses: actions/upload-artifact@master
