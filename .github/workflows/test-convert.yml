@@ -20,5 +20,5 @@ jobs:
                 #with:
                 #name: $file.docx
                 #path: $file.docx
-                pandoc -o $file$.docx -f markdown -t docx $file$.md
+                pandoc -o Obituary.docx -f markdown -t docx Obituary.md
               endfor
