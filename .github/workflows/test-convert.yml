@@ -15,12 +15,9 @@ jobs:
               do:
                   --standalone
                   --output=$file.docx
-              $file.md;
-              done;
-      - uses: actions/upload-artifact@master
-        with:
-            for file in Obituary EquipmentDistrbution Assets Accounts ComputerSettings NetworkSettings
-            do:
+                  $file.md
+                - uses: actions/upload-artifact@master
+                with:
                 name: $file.docx
                 path: $file.docx
-            done;
+              endfor
