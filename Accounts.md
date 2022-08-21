@@ -7,4 +7,4 @@
 
 | Account | User Name | 2FA | Subscription | Action |
 |---------|-----------|-----|--------------|--------|
-| LinkedIn | RalphHightower | Yes | Yes | [Memorialize](https://www.linkedin.com/help/linkedin/ask/TS-RDMLP?lang=en) https://www.linkedin.com/help/linkedin/ask/TS-RDMLP?lang=en |
+| LinkedIn | RalphHightower | Yes | Yes | [Memorialize Account](https://www.linkedin.com/help/linkedin/ask/TS-RDMLP?lang=en)<br>  https://www.linkedin.com/help/linkedin/ask/TS-RDMLP?lang=en<br> Instructions are provided in link provided.  |
