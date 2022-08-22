@@ -15,13 +15,13 @@ jobs:
       - uses: docker://pandoc/core:2.9
         with:
           args: >- # allows you to break string into multiple lines
-          ${for(file)} {"Obituary"},{"EquipmentDistrbution"},{"Assets"},{"Accounts"},{"ComputerSettings"},{"NetworkSettings"}${:
-               --standalone;
-               --output=$file.docx;
-               $md.md;
-               pandoc -f $file.md -o $file.pdf
-               }
-          ${endfor}
+             #${for(file)} {"Obituary"},{"EquipmentDistrbution"},{"Assets"},{"Accounts"},{"ComputerSettings"},{"NetworkSettings"}${:
+             --standalone
+             --output=Obituary.docx
+             Obituary.md
+               #pandoc -f $file.md -o $file.pdf
+               #}
+          #${endfor}
 
       - name: ⤴ Commit updated version
         run: |
