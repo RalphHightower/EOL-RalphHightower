@@ -15,4 +15,4 @@ Our assets distribution will be legally established with an estate or trust usin
 || Columbia, SC 29204<br> |
 || USA |<br>
 | [Law Practice] | Principal, Law Offices of Barbara E. Brunson
-| [Website] | https://brunsonlawsc.com/|
+| [Website] | http://brunsonlawsc.com/ |
