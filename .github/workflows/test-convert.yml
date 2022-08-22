@@ -11,8 +11,11 @@ jobs:
       - uses: docker://pandoc/core:latest
         with:
           args: >- # allows you to break string into multiple lines
-              for file in Obituary EquipmentDistrbution Assets Accounts ComputerSettings NetworkSettings
-              do:
+              #for file in Obituary EquipmentDistrbution Assets Accounts ComputerSettings NetworkSettings
+              #do:
+              --standalone
+              --output=Obituary.docx
+              Obituary.md
                   #--standalone
                   #--output=$file.docx
                   #$file.md
@@ -20,5 +23,5 @@ jobs:
                 #with:
                 #name: $file.docx
                 #path: $file.docx
-                pandoc -o Obituary.docx -f markdown -t docx Obituary.md
-              endfor
+                #pandoc -o Obituary.docx -f markdown -t docx Obituary.md
+              #endfor
