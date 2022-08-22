@@ -8,20 +8,14 @@ jobs:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v2
-      - uses: docker://pandoc/core:latest
+      - uses: docker://pandoc/core:2.9
         with:
           args: >- # allows you to break string into multiple lines
-              #for file in Obituary EquipmentDistrbution Assets Accounts ComputerSettings NetworkSettings
-              #do:
-              --standalone
-              --output=Obituary.docx
-              Obituary.md
-                  #--standalone
-                  #--output=$file.docx
-                  #$file.md
-                #- uses: actions/upload-artifact@master
-                #with:
-                #name: $file.docx
-                #path: $file.docx
-                #pandoc -o Obituary.docx -f markdown -t docx Obituary.md
-              #endfor
+            --standalone
+            --output=checklist.docx
+            checklist.md
+      - uses: actions/upload-artifact@master
+        with:
+          name: checklist.docx
+          path: checklist.docx
+        
