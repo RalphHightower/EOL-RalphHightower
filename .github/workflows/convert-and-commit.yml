@@ -1,4 +1,4 @@
-name: Convert markdown to Word
+name: Convert markdown to Word (convert-and-commit)
 on:
   push:
     branches:
