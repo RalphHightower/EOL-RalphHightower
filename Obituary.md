@@ -1,4 +1,4 @@
-# Obituary: Ralph M. Hightower, Jr<br>
+# Obituary: Ralph Maxwell Hightower, Jr<br>
 
 ## Bio<br>
 
@@ -10,7 +10,7 @@ Survivors include his wife, Paula Hightower, formerly Paula Lynn Lambert from Ha
 He graduated from Bamberg-Ehrhardt High School in 1971 and the University of South Carolina with a BS degree in Computer Science in 1976. He played tenor saxophone in the Bamberg-Ehrhardt Marching Band and Concert Band and a few years in the USC Marching Band and Concert Band and baritone sax in the jazz band. 
 He was also a DJ at WUSC-AM playing rock music; it wasn't called classic rock back then. Of note, he was on the air when then Vice President Spiro Agnew resigned. <br>
 
-He was employed by NCR for fourteen years, where he met his wife (he didn't realize that his start date of February 14, 1977 was significant), and retired from SC Department of Health and Environmental Control after fourteen years. In between, he worked for a few banks, an insurance software company that was fined by the Securities and Exchange Commission for booking revenue on December 32nd, a telecom company, MCI, as a contractor (in Tornado Alley of Cedar Rapids,  Iowa), and a few DOT-BOMBs (DOT-COM business failures).<br><br>
+He was employed by NCR for fourteen years, where he met his wife (he didn't realize that his start date of February 14, 1977 was significant), and retired from SC Department of Health and Environmental Control after fourteen years. In between, he worked for a few banks, an insurance software company that was fined by the Securities and Exchange Commission for booking revenue on December 32nd, a telecom company, MCI, as a contractor (in Tornado Alley of Cedar Rapids,  Iowa), and a few DOT-BOMBs (DOT-COM business failures).<br>
 
 ## Interests<br>
 
