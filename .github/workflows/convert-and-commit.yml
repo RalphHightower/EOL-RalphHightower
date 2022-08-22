@@ -1,4 +1,4 @@
-name: Convert markdown to Word (convert-and-commit)
+name: Convert markdown to Word
 on:
   push:
     branches:
@@ -7,28 +7,22 @@ on:
 jobs:
   convert_via_pandoc:
     runs-on: ubuntu-latest
-    
     steps:
       - uses: actions/checkout@v2
-          ${for(file)} {"Obituary"},{"EquipmentDistrbution"},{"Assets"},{"Accounts"},{"ComputerSettings"},{"NetworkSettings"}${
-          do;
-        
+        with:
+          ref: ${{ github.event.push.head.ref }}
       - uses: docker://pandoc/core:2.9
         with:
           args: >- # allows you to break string into multiple lines
-             --standalone
-             --output=Obituary.docx
-             Obituary.md
-             pandoc -f $file.md -o $file.pdf
-             }
-             ${endfor}$
-
+            --standalone
+            --output=Obituary.docx
+            Obituary.md
       - name: ⤴ Commit updated version
         run: |
-          git config remote.origin.url 'https://${{secrets.GITHUB_TOKEN}}@github.com/RalphHightower/EOL-RalphHightower.git'
-          git config user.name RalphHightower
+          git config remote.origin.url 'https://${{secrets.GITHUB_TOKEN}}@github.com/potatoqualitee/froopyland-dr.git'
+          git config user.name RalphHightower 
           git config user.email ralph.hightower@gmail.com
           git add .
           git commit -am "update word"
           git push
-          done
+          
