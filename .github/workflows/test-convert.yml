@@ -1,4 +1,4 @@
-name: Convert markdown to Word (test-convert.yml)
+name: Converts multiple markdowns to Word (TheWorks.yml)
 on: push
 
 jobs:
