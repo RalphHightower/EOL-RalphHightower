@@ -4,7 +4,7 @@ on:
     branches:
       - main
 jobs:
-  convert_via_pandoc:
+  convertloop_via_pandoc:
     runs-on: ubuntu-latest
      ${for $(file) in $Obituary$, $Accounts$, $Assets$, $ComputerSettings$, $EquipmentDistrbution$, $SongsForService$
     #do;
