@@ -1,5 +1,5 @@
-name: TheWorks - Converts multiple markdowns to Word (TheWorks.yml):
-  push:
+name: TheWorks - Converts multiple markdowns to Word (TheWorks.yml)
+    push:
     branches:
       - main
 jobs:
