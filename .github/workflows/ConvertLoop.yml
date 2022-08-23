@@ -1,4 +1,4 @@
-name: Loop - Convert markdown to Word (ConvertLoop)
+name: ConvertLoop.yml - Convert markdown to Word (ConvertLoop.yml)
 on:
   push:
     branches:
