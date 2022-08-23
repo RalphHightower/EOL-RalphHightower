@@ -1,4 +1,4 @@
-name: ConvertLoop - Convert markdown to Word (ConvertLoop.yml)
+name: ConvertLoop - Converts multiple markdowns to Word (ConvertLoop.yml)
 on:
   push:
     branches:
@@ -6,7 +6,7 @@ on:
 jobs:
   convertloop_via_pandoc:
     runs-on: ubuntu-latest
-     ${for $(file) in $Obituary$, $Accounts$, $Assets$, $ComputerSettings$, $EquipmentDistrbution$, $SongsForService$
+     $for $(file) in $Obituary$, $Accounts$, $Assets$, $ComputerSettings$, $EquipmentDistrbution$, $SongsForService$
     #do;
     steps:
       - uses: actions/checkout@v2
@@ -19,7 +19,7 @@ jobs:
             --output=$file.docx
             $file.md
       - name: ⤴ Commit updated version
-         ${endfor}
+         $endfor
          done
         run: |
           git config remote.origin.url 'https://${{secrets.GITHUB_TOKEN}}@github.com/RalphHightower/EOL-RalphHightower.git'
