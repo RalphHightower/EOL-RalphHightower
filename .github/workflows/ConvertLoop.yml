@@ -6,7 +6,7 @@ on:
 jobs:
   convert_via_pandoc:
     runs-on: ubuntu-latest
-    $for (file) in $Obituary$, $Accounts$, $Assets$, $ComputerSettings$, $EquipmentDistrbution$, $SongsForService$:
+    $for$ (file) in $Obituary$, $Accounts$, $Assets$, $ComputerSettings$, $EquipmentDistrbution$, $SongsForService$:
     #do;
     steps:
       - uses: actions/checkout@v2
