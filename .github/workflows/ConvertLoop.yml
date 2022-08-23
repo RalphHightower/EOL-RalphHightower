@@ -1,4 +1,4 @@
-name: Loop: Convert markdown to Word (ConvertLoop)
+name: Loop - Convert markdown to Word (ConvertLoop)
 on:
   push:
     branches:
