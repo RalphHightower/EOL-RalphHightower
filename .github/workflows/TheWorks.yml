@@ -15,8 +15,8 @@ jobs:
             args: >- # allows you to break string into multiple lines
               $for $(file) in $Obituary, $Accounts, $Assets, $ComputerSettings, $EquipmentDistrbution, $SongsForService
                   --standalone
-                  --output=$file.docx
-                  $file.md
+                  --output=#{file}.docx
+                  #{file}.md
                   - name: ⤴ Commit updated version
               $endfor
               #done
