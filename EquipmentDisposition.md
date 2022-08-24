@@ -14,8 +14,8 @@ The Hix Prohibition Rule applies to Jefferson (Jeff) and/or Roberta (Bert) Hix a
 |-----|
 | [KEH](https://www.keh.com) (https://www.keh.com/) is a buyer and seller of **used camera equipment** in Smyrna, Georgia and will be referenced as KEH. |
 | [B&H](https://www.bhphotovideo.com/) (https://www.bhphotovideo.com/) will be referred to as B&H. They are a major retailer, brick and mortar store and online presence, of photography, video, televisions, entertainment systems, computer and accessories, optics, smartphones,tablets and accessories, based in New York City, New York. The company follows the Jewish sabbath and holy holidays. Their hours of operation can be found at: https://www.bhphotovideo.com/find/HelpCenter/StoreInfo.jsp. |
-<br>
-## Active Computers 
+
+## Active Computers
 - All active computers must have their hard drives and SSD (Solid State Drive) fully reformatted before gifting or recycled ♻️. 
 - Networking equipment may be gifted or recycled ♻️. 
 - Printers may be gifted or recycled ♻️.
@@ -23,7 +23,7 @@ The Hix Prohibition Rule applies to Jefferson (Jeff) and/or Roberta (Bert) Hix a
 - UPS (Uninterruptable Power Supply) may be gifted or recycled ♻️. 
 
 ## Obsolete Computers 
-Either donate the computers to the University of South Carolina College of Engineering, a willing museum, or recycled ♻️. 
+The computers may donated the computers to a willing museum, sold (Ebay) or recycled ♻️. 
 - DEC (Digital Equipment Corporation) VAXStation II/GPX
   - DEC VAX 11/780 Architecture Manuals Volumes 1-3 (2)
 - Sun 3/110
@@ -34,7 +34,7 @@ Either donate the computers to the University of South Carolina College of Engin
   - SCSI Drive Cabinet 
 
 ## HP (Hewlett-Packard) Calculators
-If any calculators are engraved with my SSN, it must be rendered illegible before donation, or gifting; otherwise, it may be recycled ♻️. Check if the University of South Carolina College of Engineering or a museum is willing to accept the donation. 
+If any calculators are engraved with my SSN, it must be rendered illegible before donation, or gifting; otherwise, it may be recycled ♻️. The calculators maybe donated to a willing museum or sold. 
 - HP-12C
 - HP-12C Platinum 
 - HP-16C
