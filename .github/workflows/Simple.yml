@@ -28,39 +28,30 @@ jobs:
                   Accounts.md
                   run: |
               git config user.name RalphHightower 
-              git config user.email ralph.hightower@gmail.com
               git add .
               git push
 
                   --output=Assets.docx
                   Assets.md
                   run: |
-              git config user.name RalphHightower 
-              git config user.email ralph.hightower@gmail.com
               git add .
               git push
 
                   --output=ComputerSettings.docx
                   ComputerSettings.md
                   run: |
-              git config user.name RalphHightower 
-              git config user.email ralph.hightower@gmail.com
               git add .
               git push
 
                   --output=EquipmentDistribution.docx
                   EquipmentDistribution.md
                   run: |
-              git config user.name RalphHightower 
-              git config user.email ralph.hightower@gmail.com
               git add .
               git push
 
                   --output=SongsForService.docx
                   SongsForService.md
                   run: |
-              git config user.name RalphHightower 
-              git config user.email ralph.hightower@gmail.com
               git add .
               git push
 
