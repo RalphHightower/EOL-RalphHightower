@@ -63,5 +63,5 @@ jobs:
               git config user.name RalphHightower 
               git config user.email ralph.hightower@gmail.com
               git add .
-              git commit -am "Updated Documents"
+              #git commit -am "Updated Documents"
               git push
