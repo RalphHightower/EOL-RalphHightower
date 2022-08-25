@@ -18,16 +18,64 @@ jobs:
                   --standalone
                   --output=Obituary.docx
                   Obituary.md
+                  run: |
+              git config remote.origin.url 'https://${{secrets.GITHUB_TOKEN}}@github.com/RalphHightower/EOL-RalphHightower.git'
+              git config user.name RalphHightower 
+              git config user.email ralph.hightower@gmail.com
+              git add .
+              git commit -am "update word"
+              git push
+
                   --output=Accounts
                   Accounts.md
+                  run: |
+              git config remote.origin.url 'https://${{secrets.GITHUB_TOKEN}}@github.com/RalphHightower/EOL-RalphHightower.git'
+              git config user.name RalphHightower 
+              git config user.email ralph.hightower@gmail.com
+              git add .
+              git commit -am "update word"
+              git push
+
                   --output=Assets.docx
                   Assets.md
+                  run: |
+              git config remote.origin.url 'https://${{secrets.GITHUB_TOKEN}}@github.com/RalphHightower/EOL-RalphHightower.git'
+              git config user.name RalphHightower 
+              git config user.email ralph.hightower@gmail.com
+              git add .
+              git commit -am "update word"
+              git push
+
                   --output=ComputerSettings.docx
                   ComputerSettings.md
+                  run: |
+              git config remote.origin.url 'https://${{secrets.GITHUB_TOKEN}}@github.com/RalphHightower/EOL-RalphHightower.git'
+              git config user.name RalphHightower 
+              git config user.email ralph.hightower@gmail.com
+              git add .
+              git commit -am "update word"
+              git push
+
                   --output=EquipmentDistribution.docx
                   EquipmentDistribution.md
+                  run: |
+              git config remote.origin.url 'https://${{secrets.GITHUB_TOKEN}}@github.com/RalphHightower/EOL-RalphHightower.git'
+              git config user.name RalphHightower 
+              git config user.email ralph.hightower@gmail.com
+              git add .
+              git commit -am "update word"
+              git push
+
                   --output=SongsForService.docx
                   SongsForService.md
+                  run: |
+              git config remote.origin.url 'https://${{secrets.GITHUB_TOKEN}}@github.com/RalphHightower/EOL-RalphHightower.git'
+              git config user.name RalphHightower 
+              git config user.email ralph.hightower@gmail.com
+              git add .
+              git commit -am "update word"
+              git push
+
                   - name: ⤴ Commit updated version
               #$endfor
               #done
