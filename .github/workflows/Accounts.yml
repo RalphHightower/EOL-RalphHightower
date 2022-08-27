@@ -1,4 +1,4 @@
-name: Convert markdown to Word (Obituary)
+name: Convert markdown to Word (Accounts)
 on:
   push:
     branches:
