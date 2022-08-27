@@ -1,5 +1,5 @@
 # Assets Endowment
-Our assets distribution will be legally established with an estate or trust using Barbara Brunson as our attorney. But this is our planned distribution. 
+Our assets distribution will be legally established with an estate or trust using Barbara Brunson as our attorney. But this is our planned distribution. <br>
 | Percentage | Endowments |
 |------------|------------------|
 | 50% | [Beagle Health Research - AKC ](https://www.akcchf.org/) |
