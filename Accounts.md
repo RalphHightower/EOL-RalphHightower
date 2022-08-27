@@ -5,7 +5,7 @@
 | Subscription | Paid Subscription |
 | Action | What to do |
 
-| **Account** |   **User Name**        | **2FA**   | **Subscription** | **Action** <img width=1500px> |
+| **Account** <image width='10%'> |   **User Name** <image width='10%'>        | **2FA** <image width='10%'>  | **Subscription** <image width='10%'> | **Action** <img width='50%'> |
 |-------------|------------------------|-----------|------------------|-------------------|
-| LinkedIn.   | RalphHightower         | Yes      | Yes | [Memorialize Account](https://www.linkedin.com/help/linkedin/ask/TS-RDMLP?lang=en)<br>  https://www.linkedin.com/help/linkedin/ask/TS-RDMLP?lang=en<br> Instructions are provided in link provided.  |
-| gocomics.com.| ralph.hightower@gmail.com | No | Yes | Cancel |
+| LinkedIn   | RalphHightower         | Yes      | Yes | [Memorialize Account](https://www.linkedin.com/help/linkedin/ask/TS-RDMLP?lang=en)<br>  https://www.linkedin.com/help/linkedin/ask/TS-RDMLP?lang=en<br> Instructions are provided in link provided.  |
+| gocomics.com | ralph.hightower@gmail.com | No | Yes | Cancel |
