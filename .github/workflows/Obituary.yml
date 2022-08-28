@@ -23,7 +23,6 @@ jobs:
       - name: ⤴ Commit updated version
         run: |
           git pull 'https://${{secrets.GITHUB_TOKEN}}@github.com/RalphHightower/EOL-RalphHightower.git'
-          git pull 'https://${{secrets.GITHUB_TOKEN}}@github.com/RalphHightower/EOL-RalphHightower.git'
           git config remote.origin.url 'https://${{secrets.GITHUB_TOKEN}}@github.com/RalphHightower/EOL-RalphHightower.git'
           git config user.name RalphHightower 
           git config user.email ralph.hightower@gmail.com
