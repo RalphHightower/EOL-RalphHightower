@@ -10,7 +10,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
           ref: ${{ github.event.push.head.ref }}
-      - uses: docker://pandoc/core:2.9
+      - uses: docker://pandoc/core:2.19.2
         with:
           args: >- # allows you to break string into multiple lines
             --standalone
