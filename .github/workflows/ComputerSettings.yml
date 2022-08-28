@@ -1,5 +1,5 @@
 name: Convert markdown to Word (ComputerSettings)
-on
+on:
   push:
     branches:
       - main
