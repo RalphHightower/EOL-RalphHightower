@@ -18,7 +18,6 @@ jobs:
         with:
           args: >- # allows you to break string into multiple lines
             --standalone
-            --landscape
             --output=Assets.docx
             Assets.md
       - name: ⤴ Commit updated version
