@@ -18,8 +18,8 @@ jobs:
         with:
           args: >- # allows you to break string into multiple lines
             --standalone
-            --output=EquipmentDistribution.docx
-            EquipmentDistrbution.md
+            --output=EquipmentDisposition.docx
+            EquipmentDisposition.md
       - name: ⤴ Commit updated version
         run: |
           git pull 'https://${{secrets.GITHUB_TOKEN}}@github.com/RalphHightower/EOL-RalphHightower.git'
