@@ -17,7 +17,7 @@ The Hix Prohibition Rule applies to Jefferson (Jeff) and/or Roberta (Bert) Hix a
 | **Photography Retailers** |
 |-----|
 | [KEH](https://www.keh.com) (https://www.keh.com/) is a buyer and seller of **used camera equipment** in Smyrna, Georgia and will be referenced as KEH. |
-| [B&H](https://www.bhphotovideo.com/) (https://www.bhphotovideo.com/) will be referred to as B&H. They are a major retailer, brick and mortar store and online presence, of photography, video, televisions, entertainment systems, computer and accessories, optics, smartphones,tablets and accessories, based in New York City, New York. The company follows the Jewish sabbath and holy holidays. Their hours of operation can be found at: https://www.bhphotovideo.com/find/HelpCenter/StoreInfo.jsp. |
+| [B&H](https://www.bhphotovideo.com/) (https://www.bhphotovideo.com/) will be referred to as B&H. They are a major retailer, brick and mortar store and online presence, of photography, video, televisions, entertainment systems, computer and accessories, optics, smartphones, tablets and accessories, based in New York City, New York. The company follows the Jewish sabbath and holy holidays. Their hours of operation can be found at: https://www.bhphotovideo.com/find/HelpCenter/StoreInfo.jsp. |
 
 ## Active Computers
 - All active computers must have their hard drives and SSD (Solid State Drive) fully reformatted before gifting or recycling ♻️. 
