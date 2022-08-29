@@ -35,6 +35,7 @@ The computers may donated the computers to a willing museum, sold (Ebay) or recy
 
 ## HP (Hewlett-Packard) Calculators
 If any calculators are engraved with my SSN, it must be rendered illegible before donation, or gifting; otherwise, it may be recycled ♻️. The calculators maybe donated to a willing museum or sold. 
+
 - HP-12C
 - HP-12C Platinum 
 - HP-16C
