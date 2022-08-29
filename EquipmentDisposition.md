@@ -30,12 +30,18 @@ The Hix Prohibition Rule applies to Jefferson (Jeff) and/or Roberta (Bert) Hix a
 The computers may donated the computers to a willing museum, sold (Ebay) or recycled ♻️. 
 
 ### Possible Computer Museums 
-| Computer Museum | Location | Web Site |
+| **Museum** | **Location** | **Web Site** |
 |-----------------|----------|----------|
-|||
-|||
-|||
-
+|DigiBarn Computer Museum|California, Boulder Creek |http://www.digibarn.com/|
+|Computer History Museum|California, Mountain View|http://www.computerhistory.org/|
+|Computer Museum of America|Georgia, Roswell |https://www.computermuseumofamerica.org/|
+|System Source Computer Museum|Maryland, Hunt Valley |http://museum.syssrc.com/|
+|Charles Babbage Institute|Minnesota, Minneapolis |http://www.cbi.umn.edu/|
+|American Computer & Robotics Museum|Montana, Bozeman |http://www.compustory.com/|
+|Rhode Island Computer Museum|Rhode Island, North Kingstown ||
+|Living Computers: Museum + Labs|Washington, Seattle |http://www.livingcomputermuseum.org/|
+|Microsoft Visitor Center|Washington, Redmond|https://www.microsoft.com|
+|South Carolina State Museum | South Carolina, Columbia |http://scmuseum.org/|
 
 | **Computers** | **Peripherals, Books** | **Status** |
 |-----------|-------------|---------|
