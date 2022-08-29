@@ -27,5 +27,5 @@ jobs:
           git config user.name RalphHightower 
           git config user.email ralph.hightower@gmail.com
           git add .
-          git commit -am "update ComputerSettings"
+          git commit -am "Update Document for ComputerSettings"
           git push
