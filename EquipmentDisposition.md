@@ -20,7 +20,7 @@ The Hix Prohibition Rule applies to Jefferson (Jeff) and/or Roberta (Bert) Hix a
 | [B&H](https://www.bhphotovideo.com/) (https://www.bhphotovideo.com/) will be referred to as B&H. They are a major retailer, brick and mortar store and online presence, of photography, video, televisions, entertainment systems, computer and accessories, optics, smartphones,tablets and accessories, based in New York City, New York. The company follows the Jewish sabbath and holy holidays. Their hours of operation can be found at: https://www.bhphotovideo.com/find/HelpCenter/StoreInfo.jsp. |
 
 ## Active Computers
-- All active computers must have their hard drives and SSD (Solid State Drive) fully reformatted before gifting or recycled ♻️. 
+- All active computers must have their hard drives and SSD (Solid State Drive) fully reformatted before gifting or recycling ♻️. 
 - Networking equipment may be gifted or recycled ♻️. 
 - Printers may be gifted or recycled ♻️.
 - Monitors may be gifted or recycled ♻️. 
@@ -28,34 +28,34 @@ The Hix Prohibition Rule applies to Jefferson (Jeff) and/or Roberta (Bert) Hix a
 
 ## Obsolete Computers 
 The computers may donated the computers to a willing museum, sold (Ebay) or recycled ♻️. 
-| **Computers** | **Peripherals, Books** |
-|-----------|-------------|
-| DEC (Digital Equipment Corporation) VAXStation II/GPX |
-|| DEC VAX 11/780 Architecture Manuals Volumes 1-3 (2) |
-| Sun 3/110 ||
-| Sun SPARCStation IPX ||
-|| Sun 31 inch CRT (Cathode Ray Tube) |
-|| Sun CD-ROM Drive |
-|| Sun Tape Drive |
-|| SCSI Drive Cabinet |
+| **Computers** | **Peripherals, Books** | **Status** |
+|-----------|-------------|---------|
+| DEC (Digital Equipment Corporation) VAXStation II/GPX || unknown |
+|| DEC VAX 11/780 Architecture Manuals Volumes 1-3 (2) | good |
+| Sun 3/110 || unknown |
+| Sun SPARCStation IPX || hard drive crash |
+|| Sun 31 inch CRT (Cathode Ray Tube) | does not work |
+|| Sun CD-ROM Drive | probably works |
+|| Sun Tape Drive | probably works |
+|| SCSI Drive Cabinet | drives may work |
 
 ## HP (Hewlett-Packard) Calculators
 If any calculators are engraved with my SSN, it must be rendered illegible before donation, or gifting; otherwise, it may be recycled ♻️. The calculators maybe donated to a willing museum or sold. 
 
-| **HP Calculators** | **Accessories** | **Disposition** |
-|----------------|-------------|-------|
-| HP-12C || gifted or recycled ♻️ |
-| HP-12C Platinum || gifted or recycled ♻️ |
-| HP-16C || gifted or recycled ♻️ |
-| HP-17B || gifted or recycled ♻️ |
-| HP-41CV || gifted or recycled ♻️ |
-| HP-41CX || gifted or recycled ♻️ |
-||HP-41 Card Reader | gifted or recycled ♻️ |
-||HP-41 Memory Modules | gifted or recycled ♻️ |
-||HP-41 Program Modules | gifted or recycled ♻️ |
-| HP-45 || dispose or recycle ♻️ |
-| HP-48GX || dispose or recycle ♻️ |
-| HP-67 || dispose or recycle ♻️ |
+| **HP Calculators** | **Accessories** | **Disposition** | **Status** |
+|----------------|-------------|-------|---------|
+| HP-12C || gifted or recycled ♻️ | working |
+| HP-12C Platinum || gifted or recycled ♻️ | working |
+| HP-16C || gifted or recycled ♻️ | working |
+| HP-17B || gifted or recycled ♻️ | working |
+| HP-41CV || gifted or recycled ♻️ | does not work |
+| HP-41CX || gifted or recycled ♻️ | does not work |
+||HP-41 Card Reader | gifted or recycled ♻️ | does not work |
+||HP-41 Memory Modules | gifted or recycled ♻️ | probably works |
+||HP-41 Program Modules | gifted or recycled ♻️ | probably works ||
+| HP-45 || dispose or recycle ♻️ | does not work |
+| HP-48GX || dispose or recycle ♻️ | working |
+| HP-67 || dispose or recycle ♻️ | does not work |
 
 ## Computer Science : Books 📚:
 May be donated to the University of South Carolina College of Engineering, or Lexington County Library. 
