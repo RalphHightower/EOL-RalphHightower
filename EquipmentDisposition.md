@@ -28,6 +28,7 @@ The Hix Prohibition Rule applies to Jefferson (Jeff) and/or Roberta (Bert) Hix a
 
 ## Obsolete Computers 
 The computers may donated the computers to a willing museum, sold (Ebay) or recycled ♻️. 
+
 | **Computers** | **Peripherals, Books** | **Status** |
 |-----------|-------------|---------|
 | DEC (Digital Equipment Corporation) VAXStation II/GPX || unknown |
