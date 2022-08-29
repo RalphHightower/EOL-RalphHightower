@@ -1,5 +1,5 @@
 # Beagles 
-## Pet Trust
+
 | Pet Provision Sample |
 |----------------------|
 | [AKC Pet Provision Sample](https://www.akcchf.org/how-to-help/donate/planned-giving/pet-trusts.html)
