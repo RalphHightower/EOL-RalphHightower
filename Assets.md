@@ -1,6 +1,8 @@
 # Assets Endowment
 Our assets distribution will be legally established with an estate or trust using Barbara Brunson as our attorney. But this is our planned distribution. <br>
 
+A trust will be set up for any Beagles for their care after Paula and I are gone.
+
 | **Percentage** | **Endowments** |
 |------------|------------------|
 | 50% | [Beagle Health Research - AKC ](https://www.akcchf.org/) |
