@@ -9,3 +9,5 @@
 |-------------|------------------------|-----------|------------------|-----------------------------------------------|
 | LinkedIn   | RalphHightower         | Yes      | Yes | [Memorialize Account](https://www.linkedin.com/help/linkedin/ask/TS-RDMLP?lang=en)<br>  https://www.linkedin.com/help/linkedin/ask/TS-RDMLP?lang=en<br> Instructions are provided in link provided.  |
 | gocomics.com | ralph.hightower@gmail.com | No | Yes | Cancel |
+| comicskingdom.com | ralph.hightower@gmail.com | No | Cancel |
+  
