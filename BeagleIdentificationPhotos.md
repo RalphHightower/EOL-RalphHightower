@@ -1,6 +1,6 @@
 # River
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+[River](https:photos/)
 # Austin 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+[Austin](https:photos/)
 # River and Austin
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![River and Austin](https:photos/)
