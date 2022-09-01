@@ -7,7 +7,7 @@ I got the idea from [Chrissy LeMaire](@potatoqualitee) [eol-dr](https://github.c
 - [Songs for Service](SongsForService.md)
 - [Assets Endowment (Established with attorney)](Assets.md)
 - [Beagles](Beagles.md)
-- [Beagle Identification Photos](BeagleIdentification.md)
+- [Beagle Identification Photos](BeagleIdentificationPhotos.md)
 - [Accounts w/o passwords](Accounts.md)
 - [Equipment Disposition](EquipmentDisposition.md)
 - [Computer Settings](ComputerSettings.md)
