@@ -1,6 +1,7 @@
 # River
 [River](https:photos/)
 # Austin 
-[Austin](https:photos/)
+[Austin](Photos/Austin-front.jpg)
+
 # River and Austin
-![River and Austin](https:photos/)
+[River and Austin](https:photos/)
