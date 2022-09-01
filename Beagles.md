@@ -1,9 +1,9 @@
 # Beagles 
 ## Current Beagles 
-| **Registered Name** | **Call Name** | **Birth Date** | **Sex** | **Markings** | **Breeder** | **Owner** | **AKC Registration** | **Microchip** | **Health Conditions** |
-|---------------------|---------------|----------------|---------|--------------|-------------|-----------|---------------------|---------------|-----------------------|
-| Encore River of Dreams at Lynmax | River | 2016-07-05 | Female | Black, Tan, White (broad swath of white on right shoulder) | Teresa C. Nesmith | Ralph & Paula Hightower | HP 51592705 | Microchip | Diabetes, Cataract |
-| GCH CH Ornre One's Don't Mess With Texas BCAT | Austin | 2011-10-26 | Male (neutered) | Black (faded), Tan, White & graying | [Carol Rutherford (deceased 1957-07-30 - 2020-09-10: Morton, Illinois)](https://www.oakshinesfuneralhome.com/obituary/504331/carol-rutherford/) | Carol Rutherford | HP 41963101 | Microchip | Healthy |
+| **Registered Name** | **Call Name** | **Birth Date** | **Sex** | **Markings** | **Photo** | **Breeder** | **Owner** | **AKC Registration** | **Microchip** | **Health Conditions** |
+|---------------------|---------------|----------------|---------|--------------|-----------|-------------|-----------|---------------------|---------------|-----------------------|
+| Encore River of Dreams at Lynmax | River | 2016-07-05 | Female | Black, Tan, White (broad swath of white on right shoulder) | photo | Teresa C. Nesmith | Ralph & Paula Hightower | HP 51592705 | Microchip | Diabetes, Cataract |
+| GCH CH Ornre One's Don't Mess With Texas BCAT | Austin | 2011-10-26 | Male (neutered) | Black (faded), Tan, White & graying | photo | [Carol Rutherford (deceased 1957-07-30 - 2020-09-10: Morton, Illinois)](https://www.oakshinesfuneralhome.com/obituary/504331/carol-rutherford/) | Carol Rutherford | HP 41963101 | Microchip | Healthy |
 
 | Pet Provision Sample |
 |----------------------|
