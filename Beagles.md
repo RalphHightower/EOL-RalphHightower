@@ -1,4 +1,9 @@
 # Beagles 
+## Current Beagles 
+| **Registered Name** | **Call Name** | **Birth Date** | **Sex** | **Markings** | **Breeder** | **Owner** | **AKC Registration** | **Microchip** | **Health Conditions** |
+|---------------------|---------------|----------------|---------|--------------|-------------|-----------|---------------------|---------------|-----------------------|
+| Encore River of Dreams | River | 2016-07-05 | Female | Black, Tan, White (broad swath of white onright shoulder) | TeresaNesmith | Ralph & Paula Hightower | AKC Registration | Microchip | Diabetes, Cataract |
+| Registered Name | Austin | Birth Date | Male (neutered) | Black (faded), Tan, White | Carol Rutherford (deceased: IL) | Carol Rutherford | AKC Registration | Microchip | Healthy |
 
 | Pet Provision Sample |
 |----------------------|
