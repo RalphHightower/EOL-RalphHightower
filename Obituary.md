@@ -35,6 +35,8 @@ Donations may be made to the American Kennel Club Canine Health Foundation in me
 
 | **Content** | **Web Site** |
 |--------------|---------------|
+| Content | Web Site |
+
 | AKC Canine <br> Health Foundation | [https://www.akcchf.org/](https://www.akcchf.org/) |
 | LinkedIn <br> Profile | [https://www.linkedin.com/in/ralphhightower/](https://www.linkedin.com/in/ralphhightower/) |
 | Photography <br>Portfolio | [https://www.flickr.com/photos/ralphhightower/](https://www.flickr.com/photos/ralphhightower/) |
