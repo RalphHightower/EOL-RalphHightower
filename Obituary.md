@@ -32,6 +32,7 @@ Remembrance service will be held by \[funeral home\] on \[date/time\] at \[locat
 ## Memorials
 Donations may be made to the American Kennel Club Canine Health Foundation in memory of Ralph Hightower, Jr and their Beagle pack.<br>
 
+
 | **Content** | **Web Site** |
 |--------------|---------------|
 | AKC Canine <br> Health Foundation | [https://www.akcchf.org/](https://www.akcchf.org/) |
