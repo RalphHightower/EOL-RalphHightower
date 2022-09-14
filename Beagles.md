@@ -9,7 +9,7 @@
 | Pet Provision Sample |
 |----------------------|
 | [AKC Pet Provision Sample](https://www.akcchf.org/how-to-help/donate/planned-giving/pet-trusts.html)
-https://www.akcchf.org/how-to-help/donate/planned-giving/pet-trusts.html |
+[https://www.akcchf.org/how-to-help/donate/planned-giving/pet-trusts.html](https://www.akcchf.org/how-to-help/donate/planned-giving/pet-trusts.html) |
 
 ## AKC Sample Gift for Pets.  
 I give all of my pet(s) to my Executor with the direction that the Executor  (i) deliver my pet(s) to 
