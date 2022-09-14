@@ -10,10 +10,10 @@ A trust will be set up for any Beagles for their care after Paula and I are gone
 
 
 ## Attorney 
+
 | **Field** | **Value** |
 |-----------|-----------|
 | field | value |
-
 | \[Name\]         | Brunson, Barbara |
 | \[Work\]         | (803) 799-0425 |
 | \[Address\]      | 3614 Landmark Drive |
