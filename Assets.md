@@ -14,9 +14,9 @@ A trust will be set up for any Beagles for their care after Paula and I are gone
 |------------------|--------------|
 | \[Name\]         | Brunson, Barbara |
 | \[Work\]         | (803) 799-0425 |
-| \[Address\]      | 3614 Landmark Drive<br> |
-|                  | Suite B <br>|
-|                  | Columbia, SC 29204<br> |
-|                  | USA |<br>
+| \[Address\]      | 3614 Landmark Drive |
+|| Suite B |
+|| Columbia, SC 29204 |
+|| USA |
 | \[Law Practice\] | Principal, Law Offices of Barbara E. Brunson
 | \[Website\]      | http://brunsonlawsc.com/ |
