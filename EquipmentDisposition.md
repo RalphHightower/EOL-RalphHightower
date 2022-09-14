@@ -3,6 +3,7 @@
 The Hix Prohibition Rule applies to Jefferson (Jeff) and/or Roberta (Bert) Hix and/or any proxies representing either person. Under no circumstances will Jefferson and/or Roberta Hix have any opportunity to gain ownership or control of anything. They and/or any of their proxies, designated or clandestine, are prohibited from obtaining any disposed possessions through estate sale, auction, or other means of disposition.
 
 ## Definitions
+
 | **word** | **definition** |
 |-----------|---------------|
 | must | instructions are strictly adhered to without any deviations. No ifs, ands, or buts. |
@@ -13,7 +14,8 @@ The Hix Prohibition Rule applies to Jefferson (Jeff) and/or Roberta (Bert) Hix a
 | gifted | given to someone who finds it useful and **will use it!** |
 |SSN|Social Security Number |
 
-## Online Photography Retailers 
+## Online Photography Retailers
+
 | **Photography Retailers** |
 |---------------------------|
 | [KEH](https://www.keh.com) (https://www.keh.com/) is a buyer and seller of **used camera equipment** in Smyrna, Georgia and will be referenced as KEH. |
@@ -30,6 +32,7 @@ The Hix Prohibition Rule applies to Jefferson (Jeff) and/or Roberta (Bert) Hix a
 The computers may donated the computers to a willing museum, sold (Ebay) or recycled ♻️. 
 
 ### Possible Computer Museums 
+
 | **Museum** | **Location** | **Web Site** |
 |------------|--------------|--------------|
 |DigiBarn Computer Museum|California, Boulder Creek |http://www.digibarn.com/|
@@ -79,6 +82,7 @@ May be donated to the University of South Carolina College of Engineering, or Le
 
 
 ## Camera equipment
+
 | Gear | Disposition |
 |-------|-------------|
 | Canon A-1, Motor Drive MA | these have my Social Security Number engraved. Check with KEH to see if they will resell it without the SSN. It must be rendered illegible before disposition. I hate to have it destroyed; but ...
