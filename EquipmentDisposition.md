@@ -4,7 +4,7 @@ The Hix Prohibition Rule applies to Jefferson (Jeff) and/or Roberta (Bert) Hix a
 
 ## Definitions
 | **word** | **definition** |
-|------|------------|
+|-----------|---------------|
 | must | instructions are strictly adhered to without any deviations. No ifs, ands, or buts. |
 | may | it is permitted |
 | can | it is permitted |
@@ -15,7 +15,7 @@ The Hix Prohibition Rule applies to Jefferson (Jeff) and/or Roberta (Bert) Hix a
 
 ## Online Photography Retailers 
 | **Photography Retailers** |
-|-----|
+|---------------------------|
 | [KEH](https://www.keh.com) (https://www.keh.com/) is a buyer and seller of **used camera equipment** in Smyrna, Georgia and will be referenced as KEH. |
 | [B&H](https://www.bhphotovideo.com/) (https://www.bhphotovideo.com/) will be referred to as B&H. They are a major retailer, brick and mortar store and online presence, of photography, video, televisions, entertainment systems, computer and accessories, optics, smartphones, tablets and accessories, based in New York City, New York. The company follows the Jewish sabbath and holy holidays. Their hours of operation can be found at: https://www.bhphotovideo.com/find/HelpCenter/StoreInfo.jsp. |
 
@@ -80,7 +80,7 @@ May be donated to the University of South Carolina College of Engineering, or Le
 
 ## Camera equipment
 | Gear | Disposition |
-|------|--------------|
+|-------|-------------|
 | Canon A-1, Motor Drive MA | these have my Social Security Number engraved. Check with KEH to see if they will resell it without the SSN. It must be rendered illegible before disposition. I hate to have it destroyed; but ...
 | Canon A-1 | Bought in as-is condition from KEH to use for parts.|
 | Sunpak 522 Flash | If it has my SSN, render it illegible or else the same thing goes. |
