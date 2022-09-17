@@ -88,9 +88,11 @@ May be donated to the University of South Carolina College of Engineering, or Le
 | Canon A-1, Motor Drive MA | these have my Social Security Number engraved. Check with KEH to see if they will resell it without the SSN. It must be rendered illegible before disposition. I hate to have it destroyed; but ...
 | Canon A-1 | Bought in as-is condition from KEH to use for parts.|
 | Sunpak 522 Flash | If it has my SSN, render it illegible or else the same thing goes. |
+| Canon Macro Photo Lens 20mm f/3.5 | May be assessed and sold to KEH or gift |
+| Canon Auto Bellows | May be assessed and sold to KEH or gift |
 | Canon F-1N, Canon FN Motor Drive FN, Canon AE Finder FN, Canon AE Finder FN, metering screens. | These may be given to someone who promises to use it, shooting with film and it not be a shelf queen. Otherwise, it can be assessed and sold to KEH.|
 | Canon EOS 5D Mark III, Canon EF 24-105mm f4L, Canon RT 600 II flash | Can be sold to KEH. |
-| PlusTek OpticFilm 8200i Ai film scanner, accessories | May be assessed and sold to KEH |
+| PlusTek OpticFilm 8200i Ai film scanner, 35mm negative film carriers (2), 35mm slide film carriers (2) | May be assessed and sold to KEH |
 
 ## 20 volt, 80 volt power equipment 
 There is an Excel spreadsheet on my computer that has the purchase date and price.
