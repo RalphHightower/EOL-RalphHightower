@@ -99,7 +99,19 @@ There is an Excel spreadsheet on my computer that has the purchase date and pric
 
 ## Lawn Equipment
 - Toro Zero-turn mower may be sold.
-- Kobalt 80 Volt Outdoor Power Equipment may be sold or gifted. 
+- Kobalt 80 Volt Outdoor Power Equipment may be sold or gifted  
+
+| **Model Number** | **Description** |
+|------------------|-----------------|
+|#KIV 3080-06|Kobalt 300-Watt Battery Operated Power Inverter|
+|#KCS 4080-06|Kobalt 80-Volt Max 18-in Brushless Cordless Electric Chainsaw 5 Ah (Battery & Charger Included)|
+|#KST 2580-06|Kobalt 80-Volt Max 16-in Straight Cordless String Trimmer (Battery Included)|
+|#KHB 2580-06|Kobalt 80-volt Max 630-CFM 140-MPH Brushless Handheld Cordless Electric Leaf Blower 2.5 Ah (Battery & Charger Included)|
+|#KMP 6080-06|Kobalt 80-volt Max Brushless 21-in Self-propelled Cordless Electric Lawn Mower 6 Ah (Battery & Charger Included)|
+|#KCS 4080-06|Kobalt 80-Volt Max 18-in Brushless Cordless Electric Chainsaw 5 Ah (Battery & Charger Included)|
+|#KHT 260B-06|Kobalt 80-volt Max 630-CFM 140-MPH |Brushless Handheld Cordless Electric Leaf Blower 2.5 Ah (Battery & Charger Included)|
+|#KPS 2081-06|Kobalt 80-volt 10-in Cordless Electric Pole Saw 2 Ah (Battery & Charger Included)|
+|#KWL 0080-06|Kobalt LED Portable Work Light|
 
 ## Dewalt 20 Volt Power Tools
 - Dewalt 20 volt power tools, batteries, and chargers, including accessories, such as drill bits, etc. may be sold or gifted. 
