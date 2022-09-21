@@ -97,9 +97,16 @@ May be donated to the University of South Carolina College of Engineering, or Le
 ## 20 volt, 80 volt power equipment 
 There is an Excel spreadsheet on my computer that has the purchase date and price.
 
+## Dewalt 20 Volt Power Tools
+
+- Dewalt 20 volt power tools, batteries, and chargers, including accessories, such as drill bits, etc. may be sold or gifted. 
+
 ## Lawn Equipment
 - Toro Zero-turn mower may be sold.
-- Kobalt 80 Volt Outdoor Power Equipment may be sold or gifted  
+
+### Kobalt 80-volt Outdoor Power 🔋 Tools 🔧
+
+Kobalt 80-volt outdoor power tools may be sold or gifted. 
 
 | **Model Number** | **Description** |
 |------------------|-----------------|
@@ -112,6 +119,3 @@ There is an Excel spreadsheet on my computer that has the purchase date and pric
 |#KHT 260B-06|Kobalt 80-volt Max 630-CFM 140-MPH Brushless Handheld Cordless Electric Leaf Blower 2.5 Ah (Battery Charger Included)|
 |#KPS 2081-06|Kobalt 80-volt 10-in Cordless Electric Pole Saw 2 Ah (Battery & Charger Included)|
 |#KWL 0080-06|Kobalt LED Portable Work Light|
-
-## Dewalt 20 Volt Power Tools
-- Dewalt 20 volt power tools, batteries, and chargers, including accessories, such as drill bits, etc. may be sold or gifted. 
