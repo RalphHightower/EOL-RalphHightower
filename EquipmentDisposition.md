@@ -101,6 +101,26 @@ There is an Excel spreadsheet on my computer that has the purchase date and pric
 
 - Dewalt 20 volt power tools, batteries, and chargers, including accessories, such as drill bits, etc. may be sold or gifted. 
 
+| Model Number | Description |
+|--------------|-------------|
+| DCPW550P1|DEWALT 20V MAX 550 PSI 1.0 GPM Cold Water Cordless Electric Power Cleaner with 4 Nozzles, (1) 5.0 Ah Battery and Charger |
+| DCB203 ||
+| DCB20 ||
+| DW22838 | 1/2" 10 Pc. Socket Set - IMPACT READY(R) |
+| DW1342 | Dewalt 21-Piece Assorted Titanium Drill Bit Set |
+|| FlexTorq 40-Piece 1/4-in. Impact Driver Set |
+| DCD791 | 20V MAX XR BRUSHLESS COMPACT DD BASE |
+| DCF887 | 20V MAX XR 3-SPEED BL IMPACT DRVR BASE |
+| DCF890 | 20V MAX XR 3/8IN COMPACT IMPACT WR BASE |
+| DCB204 | |
+| DCB204-2 | 20V MAX* XR(R) Lithium Ion 2-Pack |
+| DCE511B | 11 in. Corded/Cordless Jobsite Fan (Tool Only) |
+| DCB203-2 | 20V MAX* Lithium Ion Battery 2 Pack |
+| DCC020IB | 20V MAX* Corded/Cordless Air Inflator (2) |
+| DCL050 | 20V MAX* LED Hand Held Area Light (Tool Only) |
+| DCB1112 | 20-Volt Max Power Tool Battery Charger |
+| DCB119 | 20-Volt Max Lithium Ion Vehicle Battery Charger |
+
 ## Lawn Equipment
 - Toro Zero-turn mower may be sold.
 
