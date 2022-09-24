@@ -20,4 +20,4 @@ A trust will be set up for any Beagles for their care after Paula and I are gone
 || Columbia, SC 29204 |
 || USA |
 | \[Law Practice\] | Principal, Law Offices of Barbara E. Brunson |
-| \[Website\]      | http://brunsonlawsc.com/ |
+| \[Website\]      | [http://brunsonlawsc.com/](http://brunsonlawsc.com/) |
