@@ -1,0 +1,65 @@
+title: Ralph Hightower Top Level Repository
+author:
+  name: Ralph Hightower 
+  email: ralph.hightower@gmail.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  I freeze time; I photograph. RETIRED Software Engineer (C#, .Net), 
+  50++ years experience; still active for personal projects. Witnessed 
+  two final space flights: Apollo/Soyuz, Space Shuttle STS-135 Atlantis
+  (launch and landing) w/ Final Four.
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%Y-%m-%d %I:%M:%S.%L %p %Z" # "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: RalphHightower 
+    github:  RalphHightower
+    # devto: jekyll
+    # dribbble: jekyll
+    facebook: RalphHightower 
+    flickr:   RalphHightower
+    googledev: RalphHightower
+    # instagram: jekyll
+    linkedin: RalphHightower 
+    stackoverflow: 26315139/ralph-hightower
+    # pinterest: jekyll
+    youtube: RalphHightower 
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    youtube_channel_name: RalphHightower
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+    # google_scholar_id: qc6CJjYAAAAJ
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+    # GitLab instances
+    gitlab:
+    - username: RalphHightower
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+    stackoverflow: "26315139/ralph-hightower"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
