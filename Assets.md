@@ -14,7 +14,6 @@ A trust will be set up for any Beagles for their care after Paula and I are gone
 | **Field** | **Value** |
 |-----------|-----------|
 | \[Name\]         | Brunson, Barbara |
-| \[Work\]         | (803) 799-0425 |
 | \[Address\]      | 3614 Landmark Drive |
 || Suite B |
 || Columbia, SC 29204 |
