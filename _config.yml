@@ -1,6 +1,4 @@
----
 title: Ralph Hightower — End Of Life Kit
----
 author:
   name: Ralph Hightower 
   email: ralph.hightower@gmail.com
@@ -64,3 +62,8 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true
