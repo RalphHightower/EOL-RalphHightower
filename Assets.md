@@ -3,7 +3,7 @@ Our assets distribution will be legally established with an estate or trust usin
 
 A trust will be set up for any Beagles for their care after Paula and I are gone.
 
-| **Percentage** | **Endowments** |
+| Percentage | Endowments |
 |------------|------------------|
 | 50% | [Beagle Health Research - AKC ](https://www.akcchf.org/) |
 | 50% | [University of South Carolina - College of Engineering and Computing](https://sc.planmygift.org/wills-and-living-trusts) |
@@ -11,7 +11,7 @@ A trust will be set up for any Beagles for their care after Paula and I are gone
 
 ## Attorney 
 
-| **Field** | **Value** |
+| Field | Value |
 |-----------|-----------|
 | \[Name\]         | Brunson, Barbara |
 | \[Address\]      | 3614 Landmark Drive |
