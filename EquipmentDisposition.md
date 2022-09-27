@@ -4,7 +4,7 @@ The Hix Prohibition Rule applies to Jefferson (Jeff) and/or Roberta (Bert) Hix a
 
 ## Definitions
 
-| **word** | **definition** |
+| word | definition |
 |-----------|---------------|
 | must | instructions are strictly adhered to without any deviations. No ifs, ands, or buts. |
 | may | it is permitted |
@@ -16,7 +16,7 @@ The Hix Prohibition Rule applies to Jefferson (Jeff) and/or Roberta (Bert) Hix a
 
 ## Online Photography Retailers
 
-| **Photography Retailers** |
+| Photography Retailers |
 |---------------------------|
 | [KEH](https://www.keh.com) (https://www.keh.com/) is a buyer and seller of **used camera equipment** in Smyrna, Georgia and will be referenced as KEH. |
 | [B&H](https://www.bhphotovideo.com/) (https://www.bhphotovideo.com/) will be referred to as B&H. They are a major retailer, brick and mortar store and online presence, of photography, video, televisions, entertainment systems, computer and accessories, optics, smartphones, tablets and accessories, based in New York City, New York. The company follows the Jewish sabbath and holy holidays. Their hours of operation can be found at: https://www.bhphotovideo.com/find/HelpCenter/StoreInfo.jsp. |
@@ -33,7 +33,7 @@ The computers may donated the computers to a willing museum, sold (Ebay) or recy
 
 ### Possible Computer Museums 
 
-| **Museum** | **Location** | **Web Site** |
+| Museum | Location | Web Site |
 |------------|--------------|--------------|
 |DigiBarn Computer Museum|California, Boulder Creek |http://www.digibarn.com/|
 |Computer History Museum|California, Mountain View|http://www.computerhistory.org/|
@@ -46,7 +46,7 @@ The computers may donated the computers to a willing museum, sold (Ebay) or recy
 |Microsoft Visitor Center|Washington, Redmond|https://www.microsoft.com|
 |South Carolina State Museum | South Carolina, Columbia |http://scmuseum.org/|
 
-| **Computers** | **Peripherals, Books** | **Status** |
+| Computers | Peripherals, Books | Status |
 |-----------|-------------|---------|
 | DEC (Digital Equipment Corporation) VAXStation II/GPX || unknown |
 || DEC VAX 11/780 Architecture Manuals Volumes 1-3 (2) | good |
@@ -60,7 +60,7 @@ The computers may donated the computers to a willing museum, sold (Ebay) or recy
 ## HP (Hewlett-Packard) Calculators
 If any calculators are engraved with my SSN, it must be rendered illegible before donation, or gifting; otherwise, it may be recycled ♻️. The calculators maybe donated to a willing museum or sold. 
 
-| **HP Calculators** | **Accessories** | **Disposition** | **Status** |
+| HP Calculators | Accessories | Disposition | Status |
 |----------------|-------------|-------|---------|
 | HP-12C || gifted or recycled ♻️ | working |
 | HP-12C Platinum || gifted or recycled ♻️ | working |
@@ -128,7 +128,7 @@ There is an Excel spreadsheet on my computer that has the purchase date and pric
 
 Kobalt 80-volt outdoor power tools may be sold or gifted. 
 
-| **Model Number** | **Description** |
+| Model Number | Description |
 |------------------|-----------------|
 |#KIV 3080-06|Kobalt 300-Watt Battery Operated Power Inverter|
 |#KCS 4080-06|Kobalt 80-Volt Max 18-in Brushless Cordless Electric Chainsaw 5 Ah (Battery & Charger Included)|
