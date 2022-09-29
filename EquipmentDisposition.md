@@ -120,6 +120,9 @@ There is an Excel spreadsheet on my computer that has the purchase date and pric
 | DCL050 | 20V MAX* LED Hand Held Area Light (Tool Only) |
 | DCB1112 | 20-Volt Max Power Tool Battery Charger |
 | DCB119 | 20-Volt Max Lithium Ion Vehicle Battery Charger |
+| DCPR320B | 20V MAX* 1-1/2 in Cordless Pruner |
+| DCM848P2 | 20V MAX* XR® 5 in. Cordless Variable-Speed Random Orbit Polisher Kit |
+| DCM849P2 | 20V MAX* XR® 7 in. Cordless Variable-Speed Rotary Polisher Kit |
 
 ## Lawn Equipment
 - Toro Zero-turn mower may be sold.
