@@ -120,9 +120,9 @@ There is an Excel spreadsheet on my computer that has the purchase date and pric
 | DCL050 | 20V MAX* LED Hand Held Area Light (Tool Only) |
 | DCB1112 | 20-Volt Max Power Tool Battery Charger |
 | DCB119 | 20-Volt Max Lithium Ion Vehicle Battery Charger |
-| DCPR320B | 20V MAX* 1-1/2 in Cordless Pruner |
-| DCM848P2 | 20V MAX* XR® 5 in. Cordless Variable-Speed Random Orbit Polisher Kit |
-| DCM849P2 | 20V MAX* XR® 7 in. Cordless Variable-Speed Rotary Polisher Kit |
+| *DCPR320B* | *20V MAX\* 1-1/2 in Cordless Pruner* |
+| *DCM848P2* | *20V MAX\* XR® 5 in. Cordless Variable-Speed Random Orbit Polisher Kit* |
+| *DCM849P2* | *20V MAX\* XR® 7 in. Cordless Variable-Speed Rotary Polisher Kit* |
 
 ## Lawn Equipment
 - Toro Zero-turn mower may be sold.
@@ -141,4 +141,4 @@ Kobalt 80-volt outdoor power tools may be sold or gifted.
 |#KCS 4080-06|Kobalt 80-Volt Max 18-in Brushless Cordless Electric Chainsaw 5 Ah (Battery & Charger Included)|
 |#KHT 260B-06|Kobalt 80-volt Max 630-CFM 140-MPH Brushless Handheld Cordless Electric Leaf Blower 2.5 Ah (Battery Charger Included)|
 |#KPS 2081-06|Kobalt 80-volt 10-in Cordless Electric Pole Saw 2 Ah (Battery & Charger Included)|
-|#KWL 0080-06|Kobalt LED Portable Work Light|
+|*#KWL 0080-06*|*Kobalt LED Portable Work Light*|
