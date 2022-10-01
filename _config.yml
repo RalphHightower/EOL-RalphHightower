@@ -7,7 +7,7 @@ author:
   state: SC
   zip_code: 29036-9765
   country: United States of America
-  phone: (803) 622-6566
+  phone: +1 (803) 622-6566
 description: > # this means to ignore newlines until "show_excerpts:"
   End Of Life Instructions for Paula and executor. Includes Obituary, 
   Songs For Service, what to do with power tools, outdoor power tools, 
@@ -55,7 +55,6 @@ minima:
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
-    stackoverflow: "26315139/ralph-hightower"
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
