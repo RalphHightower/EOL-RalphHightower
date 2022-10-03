@@ -13,3 +13,4 @@ I got the idea from [Chrissy LeMaire — @potatoqualitee](https://github.com/pot
 - [Network Settings](NetworkSettings.md)
 
 ## Paula: If you have not done so yet, file with the Lexington County Assessor (first floor) for Homestead Tax Exemption, which removes $50,000 off the assessed value of our home for real property taxes.
+[![Ralph Hightower's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=RalphHightower&theme=react&days=365)](https://github.com/RalphHightower/EOL-RalphHightower/github-readme-activity-graph)
