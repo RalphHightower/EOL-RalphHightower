@@ -7,8 +7,8 @@ on:
     branches:
       - main
 env:
-   BIRTHDATE: "{{secrets BIRTHDATE}}"
-   CELLPHONE: "{{secrets.CELLPHONE}}"
+   BIRTHDATE: $"{{secrets BIRTHDATE}}"
+   CELLPHONE: $"{{secrets.CELLPHONE}}"
 jobs:
   convert_via_pandoc:
     runs-on: ubuntu-latest
