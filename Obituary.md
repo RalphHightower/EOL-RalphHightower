@@ -3,7 +3,7 @@
 ## Bio<br>
 
 Ralph M. Hightower, Jr. CHAPIN, SC. -
-The \[\(morning\|afternoon\|evening\) of date\] Ralph Maxwell Hightower, Jr. passed away at \[location\] \[optional: due to (cause of death)\] \[comforted by family members present\]. Ralph was \[age\]. He was born in Bamberg, SC on "{{secret.BIRTHDATE}}", as the first child and was preceded in death by his parents, Ralph (Mac) Maxwell Hightower Sr., and Marilyn Fox Hightower. <br>
+The \[\(morning\|afternoon\|evening\) of date\] Ralph Maxwell Hightower, Jr. passed away at \[location\] \[optional: due to (cause of death)\] \[comforted by family members present\]. Ralph was \[age\]. He was born in Bamberg, SC on $"{{secret.BIRTHDATE}}", as the first child and was preceded in death by his parents, Ralph (Mac) Maxwell Hightower Sr., and Marilyn Fox Hightower. <br>
 
 Survivors include his wife, Paula Hightower, formerly Paula Lynn Lambert from Harlem, GA, sister Elizabeth Hightower Woodall (Larry) living in Bamberg, SC, and brother Arthur Chester (Chester) Hightower (Tammy) living in Aiken, SC. Although Ralph and Paula had no children, they have adopted and bred Beagles, with many as members of their household; some have competed in obedience, show confirmation, and performance (Fast CAT). He rejoins those Beagles from the past that have led the way and patiently waiting on the other side of the Rainbow Bridge. <br>
 
