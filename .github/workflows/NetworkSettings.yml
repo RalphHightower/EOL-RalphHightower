@@ -6,6 +6,10 @@ on:
   pull_request:
     branches:
       - main
+      
+env:
+  CELLPHONE: ${{ secrets.CELLPHONE }}
+  BIRTHDATE: ${{ secrets.BIRTHDATE }}
 
 jobs:
   convert_via_pandoc:
