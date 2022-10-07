@@ -7,10 +7,11 @@ author:
   state: "South Carolina"
   zip_code: 29036-9765
   country: United States of America
-  phone: +1 (803) 622-6566
+  #phone: +1 (803) 622-6566
   #phone: ${{ secrets.CELLPHONE }}
   #phone: ${% secrets.CELLPHONE %}
-  #birthdate: ${{ secrets.BIRTHDATE }}
+  phone: "{{secrets.CELLPHONE}}"
+  birthdate: ${{ secrets.BIRTHDATE }}
 description: > # this means to ignore newlines until "show_excerpts:"
   End Of Life Instructions for Paula and executor. Includes Obituary, Songs For Service, what to do with power tools, outdoor power tools, 
   camera gear, computers. 
