@@ -35,16 +35,16 @@ The computers may donated the computers to a willing museum, sold (Ebay) or recy
 
 | Museum | Location | Web Site |
 |------------|--------------|--------------|
-|DigiBarn Computer Museum|California, Boulder Creek |http://www.digibarn.com/|
-|Computer History Museum|California, Mountain View|http://www.computerhistory.org/|
-|Computer Museum of America|Georgia, Roswell |https://www.computermuseumofamerica.org/|
-|System Source Computer Museum|Maryland, Hunt Valley |http://museum.syssrc.com/|
-|Charles Babbage Institute|Minnesota, Minneapolis |http://www.cbi.umn.edu/|
-|American Computer & Robotics Museum|Montana, Bozeman |http://www.compustory.com/|
-|Rhode Island Computer Museum|Rhode Island, North Kingstown ||
-|Living Computers: Museum + Labs|Washington, Seattle |http://www.livingcomputermuseum.org/|
-|Microsoft Visitor Center|Washington, Redmond|https://www.microsoft.com|
-|South Carolina State Museum | South Carolina, Columbia |http://scmuseum.org/|
+| [DigiBarn Computer Museum](http://www.digibarn.com/) | California, Boulder Creek | [http://www.digibarn.com/](http://www.digibarn.com/) |
+| [Computer History Museum](http://www.computerhistory.org/) | California, Mountain View| [http://www.computerhistory.org/](http://www.computerhistory.org/) |
+| [Computer Museum of America](https://www.computermuseumofamerica.org/) | Georgia, Roswell | [https://www.computermuseumofamerica.org/](https://www.computermuseumofamerica.org/) |
+| [System Source Computer Museum](http://museum.syssrc.com/) | Maryland, Hunt Valley | [http://museum.syssrc.com/](http://museum.syssrc.com/) |
+| [Charles Babbage Institute](http://www.cbi.umn.edu/) |Minnesota, Minneapolis | [http://www.cbi.umn.edu/](http://www.cbi.umn.edu/) |
+| [American Computer & Robotics Museum](http://www.compustory.com/) | Montana, Bozeman | [http://www.compustory.com/](http://www.compustory.com/) |
+| Rhode Island Computer Museum | Rhode Island, North Kingstown ||
+| [Living Computers: Museum + Labs](http://www.livingcomputermuseum.org/) | Washington, Seattle | [http://www.livingcomputermuseum.org/](http://www.livingcomputermuseum.org/) |
+| [Microsoft Visitor Center](https://www.microsoft.com/) | Washington, Redmond| [https://www.microsoft.com/](https://www.microsoft.com/) |
+| [South Carolina State Museum](http://scmuseum.org/) | South Carolina, Columbia | [http://scmuseum.org/](http://scmuseum.org/) |
 
 | Computers | Peripherals, Books | Status |
 |-----------|-------------|---------|
