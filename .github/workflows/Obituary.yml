@@ -2,10 +2,10 @@ name: Convert markdown to Word (Obituary)
 on:
   push:
     branches:
-      - main
+      ["main"]
   pull_request:
     branches:
-      - main
+      ["main"]
 env:
    BIRTHDATE: ${{ secrets BIRTHDATE }}
    CELLPHONE: ${{ secrets.CELLPHONE }}
