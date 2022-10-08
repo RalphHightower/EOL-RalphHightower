@@ -10,9 +10,9 @@
 |-------------|------------------------|-----------|------------------|-----------------------------------------------|
 | LinkedIn   | RalphHightower         | Yes[^1]      | Yes | [Memorialize Account](https://www.linkedin.com/help/linkedin/ask/TS-RDMLP?lang=en)[^2]  |
 | GitHub Pro (Team) | RalphHightower | Yes[^3] | Yes | [Downgrading your GitHub subscription](https://docs.github.com/en/billing/managing-billing-for-your-github-account/downgrading-your-github-subscription)[^4] | 
-| https://gocomics.com | ralph.hightower@gmail.com | No | Yes | Cancel |
-| https://comicskingdom.com | ralph.hightower@gmail.com | No | Yes | Cancel |
-| https://stanza.co | ralph.hightower@gmail.com | No | Yes | Cancel |
+| [https://gocomics.com](https://gocomics.com) | ralph.hightower@gmail.com | No | Yes | Cancel |
+| [https://comicskingdom.com/](https://comicskingdom.com) | ralph.hightower@gmail.com | No | Yes | Cancel |
+| [https://stanza.co](https://stanza.co) | ralph.hightower@gmail.com | No | Yes | Cancel |
 | [Terminus \(https://termius.com)](https://termius.com/) | ralph.hightower@gmail.com | No | Yes | Cancel |
  
 [^1]: Text message on Ralph's cellphone. 
