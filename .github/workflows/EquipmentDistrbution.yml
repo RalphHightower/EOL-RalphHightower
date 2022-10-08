@@ -2,10 +2,10 @@ name: Convert markdown to Word (EquipmentDistrbution)
 on:
   push:
     branches:
-      - main
+      ["main"]
   pull_request:
     branches:
-      - main
+      ["main"]
 
 jobs:
   convert_via_pandoc:
