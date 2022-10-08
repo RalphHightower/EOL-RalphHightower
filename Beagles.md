@@ -35,4 +35,4 @@ The Trustee shall also distribute the sum of \_\_\_\_\_\_\_\_\_\_ Dollars (\$\_\
 
 B. Termination of Trust.  This trust shall terminate upon the death of the last surviving pet of mine.  Upon termination of the trust, the Trustee shall distribute the then remaining trust property to the AKC Canine Health Foundation, Inc., located in Raleigh, NC (Tax ID 13-3813813), to further their mission to prevent, treat and cure canine disease.
 
-Definition of “Pet(s)”. The terms “pet(s)” means my dog(s) presently, \_\_\_\_\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_\_\_\_\, and any other dog(s) owned by me and living at the time of my death.
+Definition of “Pet(s)”. The terms “pet(s)” means my dog(s) presently, \_\_\_\_\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_\_\_\_, and any other dog(s) owned by me and living at the time of my death.
