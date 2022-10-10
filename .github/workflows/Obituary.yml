@@ -8,9 +8,9 @@ on:
       ["main"]
 jobs:
   convert_via_pandoc:
-    env:
-      birthdate: ${{ secrets BIRTHDATE }}
-      cellphone: ${{ secrets.CELLPHONE }}
+    #env:
+    #  birthdate: ${{ secrets BIRTHDATE }}
+    #  cellphone: ${{ secrets.CELLPHONE }}
 
     runs-on: ubuntu-latest
     steps:
