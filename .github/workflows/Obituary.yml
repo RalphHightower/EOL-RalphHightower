@@ -8,13 +8,13 @@ on:
       ["main"]
 jobs:
   convert_via_pandoc:
-    #env:
-    #  birthdate: ${{ secrets BIRTHDATE }}
-    #  cellphone: ${{ secrets.CELLPHONE }}
+    env:
+      birthdate: ${{ secrets BIRTHDATE }}
+      cellphone: ${{ secrets.CELLPHONE }}
 
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           ref: ${{ github.event.push.head.ref }}
       - uses: docker://pandoc/core:2.19.2
