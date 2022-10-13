@@ -16,7 +16,7 @@
 | [Terminus \(https://termius.com)](https://termius.com/) | ralph.hightower@gmail.com | No | Yes | Cancel |
 | [Uber \(https://www.uber.com/\)](https://www.uber.com/) | ralph.hightower@gmail.com | No | Yes | Cancel |
  
-[^1]: Text message on Ralph's cellphone. 
+[^1]: Text message to Ralph's cellphone. 
 [^2]: [https://www.linkedin.com/help/linkedin/ask/TS-RDMLP?lang=en](https://www.linkedin.com/help/linkedin/ask/TS-RDMLP?lang=en)
 [^3]: Need to run GitHub on Ralph Hightower's personal cellphone.
 [^4]: [https://docs.github.com/en/billing/managing-billing-for-your-github-account/downgrading-your-github-subscription](https://docs.github.com/en/billing/managing-billing-for-your-github-account/downgrading-your-github-subscription)
