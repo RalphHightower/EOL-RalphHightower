@@ -20,6 +20,8 @@ jobs:
       - uses: docker://pandoc/core:2.19.2
         with:
           args: >- # allows you to break string into multiple lines
+            cellphone: ${{secrets.CELL_PHONE}}
+            birthdate: ${{secrets.BIRTH_DATE}}
             --standalone
             --output=Obituary.docx
             Obituary.md
