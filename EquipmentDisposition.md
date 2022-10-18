@@ -123,6 +123,7 @@ There is an Excel spreadsheet on my computer that has the purchase date and pric
 | *DCPR320B* | *20V MAX\* 1-1/2 in Cordless Pruner* |
 | *DCM848P2* | *20V MAX\* XR® 5 in. Cordless Variable-Speed Random Orbit Polisher Kit* |
 | *DCM849P2* | *20V MAX\* XR® 7 in. Cordless Variable-Speed Rotary Polisher Kit* |
+| *DCCS623* | *20V Max Cordless Pruning Saw* |
 
 ## Lawn Equipment
 - Toro Zero-turn mower may be sold.
