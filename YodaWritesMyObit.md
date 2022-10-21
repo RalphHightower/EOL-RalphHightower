@@ -1,3 +1,5 @@
+#Yoda Writes Ralph Hightower's Obituary
+
 Obituary: ralph maxwell hightower, jr
 
 Ralph m. Hightower, jr. Chapin, sc. - the \[(morning|afternoon|evening) of date\] 
