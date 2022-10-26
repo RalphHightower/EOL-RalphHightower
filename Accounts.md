@@ -9,8 +9,9 @@
 | Account <image width='10%'> |   User Name <image width='10%'> | 2FA <image width='10%'>  | Subscription <image width='10%'> | Action <img width='50%'> |
 |-------------|------------------------|-----------|------------------|-----------------------------------------------|
 | LMC MyChart | RalphHightower | Yes[^1][^2] | No | Don't know |
-| LinkedIn   | RalphHightower         | Yes[^1] | Yes | [Memorialize Account](https://www.linkedin.com/help/linkedin/ask/TS-RDMLP?lang=en)[^3]  |
+| LinkedIn | RalphHightower | Yes[^1] | Yes | [Memorialize Account](https://www.linkedin.com/help/linkedin/ask/TS-RDMLP?lang=en)[^3]  |
 | GitHub Pro (Team) | RalphHightower | Yes[^4] | Yes | [Downgrading your GitHub subscription](https://docs.github.com/en/billing/managing-billing-for-your-github-account/downgrading-your-github-subscription)[^5] | 
+| [USPS Informed Delivery](https://informeddelivery.usps.com/box/pages/intro/start.action) | RalphHightower | No | No | email address can be changed. Cellphone number can be changed for package delivery notifications. Don't know if usernamecan be changed.  |
 | [MagPI — Official Raspberry Magazine](https://magpi.raspberrypi.com/) | ralph.hightower@gmail.com | No | Yes | Cancel |
 | [Ebay](https://www.ebay.com) | rhig6871 | No | No | Close |
 | [https://gocomics.com](https://gocomics.com) | ralph.hightower@gmail.com | No | Yes | Cancel |
