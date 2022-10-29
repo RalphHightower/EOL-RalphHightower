@@ -98,7 +98,7 @@ May be donated to the University of South Carolina College of Engineering, or Le
 ## 20 volt, 80 volt power equipment 
 There is an Excel spreadsheet on my computer that has the purchase date and price.
 
-## Dewalt 20 Volt Power Tools
+## [Dewalt 20 Volt Power 🔋 Tools 🔧](https://www.dewalt.com/)
 
 - Dewalt 20 volt power tools, batteries, and chargers, including accessories, such as drill bits, etc. may be sold or gifted. 
 
@@ -129,7 +129,7 @@ There is an Excel spreadsheet on my computer that has the purchase date and pric
 ## Lawn Equipment
 - Toro Zero-turn mower may be sold.
 
-### Kobalt 80-volt Outdoor Power 🔋 Tools 🔧
+### [Kobalt 80-volt Outdoor Power 🔋 Tools 🔧](https://www.lowes.com/b/kobalt)
 
 Kobalt 80-volt outdoor power tools may be sold or gifted. 
 
