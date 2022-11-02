@@ -125,6 +125,8 @@ There is an Excel spreadsheet on my computer that has the purchase date and pric
 | *DCM848P2* | *20V MAX\* XR® 5 in. Cordless Variable-Speed Random Orbit Polisher Kit* |
 | *DCM849P2* | *20V MAX\* XR® 7 in. Cordless Variable-Speed Rotary Polisher Kit* |
 | *DCCS623* | *20V Max Cordless Pruning Saw* |
+| *DCF512D1* | *ATOMIC COMPACT SERIES™ 20V MAX\* Brushless 1/2 in. Ratchet Kit* |
+| *DCF513D1* | *ATOMIC COMPACT SERIES™ 20V MAX\* Brushless 3/8 in. Ratchet (Tool Only)* |
 
 ## Lawn Equipment
 - Toro Zero-turn mower may be sold.
