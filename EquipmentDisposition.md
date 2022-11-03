@@ -127,6 +127,7 @@ There is an Excel spreadsheet on my computer that has the purchase date and pric
 | *DCCS623* | *20V Max Cordless Pruning Saw* |
 | *DCF512D1* | *ATOMIC COMPACT SERIES™ 20V MAX\* Brushless 1/2 in. Ratchet Kit* |
 | *DCF513D1* | *ATOMIC COMPACT SERIES™ 20V MAX\* Brushless 3/8 in. Ratchet (Tool Only)* |
+| *DCB094K* | *USB Charging Kit* (with USB-C port and charger) |
 
 ## Lawn Equipment
 - Toro Zero-turn mower may be sold.
