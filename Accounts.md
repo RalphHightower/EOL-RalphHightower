@@ -19,6 +19,7 @@
 | [https://stanza.co](https://stanza.co) | ralph.hightower@gmail.com | No | Yes | Cancel |
 | [Terminus \(https://termius.com)](https://termius.com/) | ralph.hightower@gmail.com | No | Yes | Cancel |
 | [Uber \(https://www.uber.com/\)](https://www.uber.com/) | ralph.hightower@gmail.com | No | Yes | Cancel |
+| [Miriam-Webster](https://www.miriamwebster.com) | RalphHightower | No | Yes | Cancel |
  
 [^1]: Text message to Ralph's cellphone. 
 [^2]: Biometric (right indexfinger print) 
