@@ -11,6 +11,7 @@
 | LMC MyChart | RalphHightower | Yes[^1][^2] | No | Don't know |
 | LinkedIn | RalphHightower | Yes[^1] | Yes | [Memorialize Account](https://www.linkedin.com/help/linkedin/ask/TS-RDMLP?lang=en)[^3]  |
 | GitHub Pro (Team) | RalphHightower | Yes[^4] | Yes | [Downgrading your GitHub subscription](https://docs.github.com/en/billing/managing-billing-for-your-github-account/downgrading-your-github-subscription)[^5] | 
+| [Weather Channel Premium](https://www.weatherchallel.com/) | ralph.hightower@gmail.com | No | Yes | Cancel or reuse |
 | [RealDash](https://my.realdash.net/plans/success?session_id=cs_live_a1oNf6eNIQSUrs2HGoV5d9BvIDXY7JUUiDNhb5v8txFgIf2kGiNmSPXoVY) | RalphHightower | No | Yes | Cancel |
 | [USPS Informed Delivery](https://informeddelivery.usps.com/box/pages/intro/start.action) | RalphHightower | No | No | email address can be changed. Cellphone number can be changed for package delivery notifications. Don't know if username can be changed.  |
 | [MagPI — Official Raspberry Magazine](https://magpi.raspberrypi.com/) | ralph.hightower@gmail.com | No | Yes | Cancel |
