@@ -118,7 +118,8 @@ There is an Excel spreadsheet on my computer that has the purchase date and pric
 | DCE511B | 11 in. Corded/Cordless Jobsite Fan (Tool Only) |
 | DCB203-2 | 20V MAX* Lithium Ion Battery 2 Pack |
 | DCC020IB | 20V MAX* Corded/Cordless Air Inflator (2) |
-| DCL050 | 20V MAX* LED Hand Held Area Light (Tool Only) |
+| DCL050 | 20-volt Max 500-Lumen LED Rechargeable Power Tool Flashlight (2) |
+| DCL043 | 20-Volt Max 1000-Lumen LED Rechargeable Power Tool Flashlight |
 | DCB1112 | 20-Volt Max Power Tool Battery Charger |
 | DCB119 | 20-Volt Max Lithium Ion Vehicle Battery Charger |
 | *DCPR320B* | *20V MAX\* 1-1/2 in Cordless Pruner* |
