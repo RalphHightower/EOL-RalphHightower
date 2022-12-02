@@ -2,7 +2,7 @@
 
 | word | definition |
 |------|------------|
-| 2FA | Two Factor Authentication |
+| 2FA | Two Factor Authentication; usually a text to cellphone, maybe email.  |
 | Subscription | Paid Subscription |
 | Action | What to do |
 
@@ -28,7 +28,7 @@
 | [Post and Courier](https://www.postandcourier.com/) | ralph.hightower@gmail.com | No | No | Cancel |
  
 [^1]: Text message to Ralph's cellphone. 
-[^2]: Biometric (right indexfinger print) 
+[^2]: Biometric (right index fingerprint) 
 [^3]: [https://www.linkedin.com/help/linkedin/ask/TS-RDMLP?lang=en](https://www.linkedin.com/help/linkedin/ask/TS-RDMLP?lang=en)
 [^4]: Need to run GitHub on Ralph Hightower's personal cellphone.
 [^5]: [https://docs.github.com/en/billing/managing-billing-for-your-github-account/downgrading-your-github-subscription](https://docs.github.com/en/billing/managing-billing-for-your-github-account/downgrading-your-github-subscription)
