@@ -24,6 +24,8 @@
 | [Terminus \(https://termius.com)](https://termius.com/) | ralph.hightower@gmail.com | No | Yes | Cancel |
 | [Uber \(https://www.uber.com/\)](https://www.uber.com/) | ralph.hightower@gmail.com | No | Yes | Cancel |
 | [Miriam-Webster](https://www.miriamwebster.com) | RalphHightower | No | Yes | Cancel |
+| [FitsNews.com](https://www.fitsnews.com/) | ralph.hightower@gmail.com  | No | No | Cancel |
+| [Post and Courier](https://www.postandcourier.com/) | ralph.hightower@gmail.com | No | No | Cancel |
  
 [^1]: Text message to Ralph's cellphone. 
 [^2]: Biometric (right indexfinger print) 
