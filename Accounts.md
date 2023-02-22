@@ -26,6 +26,7 @@
 | [Miriam-Webster](https://www.miriamwebster.com) | RalphHightower | No | Yes | Cancel |
 | [FitsNews.com](https://www.fitsnews.com/) | ralph.hightower@gmail.com  | No | No | Cancel |
 | [Post and Courier](https://www.postandcourier.com/) | ralph.hightower@gmail.com | No | No | Cancel |
+| [NoMoRoBo](https://nomorobo.com/) | my cell phone number | No | No | Cancel |
  
 [^1]: Text message to Ralph's cellphone. 
 [^2]: Biometric (right index fingerprint) 
