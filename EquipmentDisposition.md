@@ -6,7 +6,7 @@ The Hix Prohibition Rule applies to Jefferson (Jeff) and/or Roberta (Bert) Hix a
 
 | word | definition |
 |-----------|---------------|
-| [RFC-2119 — Key words for use in RFCs to Indicate Requirement Levels](https://www.rfc-editor.org/rfc/rfc2119) | This Internet Engineering Task Force Request For Comments is written for use concerning standards where it concerns the internet; but this is also useful for the English language for defining what is required and what is optional. |
+| [RFC-2119 — Key words for use in RFCs to Indicate Requirement Levels](https://www.rfc-editor.org/rfc/rfc2119)[^11] | This Internet Engineering Task Force Request For Comments is written for use concerning standards where it concerns the internet; but this is also useful for the English language for defining what is required and what is optional. |
 | must | instructions are strictly adhered to without any deviations. No ifs, ands, or buts. |
 | may | it is permitted |
 | can | it is permitted |
@@ -21,6 +21,9 @@ The Hix Prohibition Rule applies to Jefferson (Jeff) and/or Roberta (Bert) Hix a
 |---------------------------|
 | [KEH](https://www.keh.com) (https://www.keh.com/) is a buyer and seller of **used camera equipment** in Smyrna, Georgia and will be referenced as KEH. |
 | [B&H](https://www.bhphotovideo.com/) (https://www.bhphotovideo.com/) will be referred to as B&H. They are a major retailer, brick and mortar store and online presence, of photography, video, televisions, entertainment systems, computer and accessories, optics, smartphones, tablets and accessories, based in New York City, New York. The company follows the Jewish sabbath and holy holidays. Their hours of operation can be found at: [https://www.bhphotovideo.com/find/HelpCenter/StoreInfo.jsp](https://www.bhphotovideo.com/find/HelpCenter/StoreInfo.jsp). |
+
+[^11]: [RFC 2119: Key words for use in RFCs to Indicate Requirement Levels](https://www.rfc-editor.org/rfc/rfc2119 )
+
 
 ## Active Computers
 - All active computers must have their hard drives and SSD (Solid State Drive) fully reformatted before gifting or recycling ♻️. 
@@ -117,7 +120,7 @@ There is an Excel spreadsheet on my computer that has the purchase date and pric
 | DCB204-2 | 20V MAX* XR(R) Lithium Ion 2-Pack |
 | DCE511B | 11 in. Corded/Cordless Jobsite Fan (Tool Only) |
 | DCB203-2 | 20V MAX* Lithium Ion Battery 2 Pack |
-| DCC020IB | 20V MAX* Corded/Cordless Air Inflator (2) |
+| DCC020IB | 20V MAX* Corded/Cordless Air Inflator (1)[^21] |
 | DCL050 | 20-volt Max 500-Lumen LED Rechargeable Power Tool Flashlight (2) |
 | DCL043 | 20-Volt Max 1000-Lumen LED Rechargeable Power Tool Flashlight |
 | DCB1112 | 20-Volt Max Power Tool Battery Charger |
@@ -130,6 +133,8 @@ There is an Excel spreadsheet on my computer that has the purchase date and pric
 | *DCF513D1* | *ATOMIC COMPACT SERIES™ 20V MAX\* Brushless 3/8 in. Ratchet (Tool Only)* |
 | *DCB094K* | *USB Charging Kit* (with USB-C port and charger) |
 | *DXSP190681* | *4 gal. Cordless Backpack Sprayer* |
+
+[^21]: Since we are a one car family now, one was given to Elizabeth Longshore for her helping Paula 
 
 ## Lawn Equipment
 - Toro Zero-turn mower may be sold.
