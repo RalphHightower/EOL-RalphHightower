@@ -12,4 +12,8 @@ I got the idea from [Chrissy LeMaire — @potatoqualitee](https://github.com/pot
 - [Computer Settings](ComputerSettings.md)
 - [Network Settings](NetworkSettings.md)
 
+Precise definitions used in all EOL Instructions/Documents about what is required, permitted, optional, etc.[^11]
+
+[^11]: [RFC 2119: Key words for use in RFCs to Indicate Requirement Levels](https://www.rfc-editor.org/rfc/rfc2119 )
+
 ## Paula: If you have not done so yet, file with the Lexington County Assessor (first floor) for Homestead Tax Exemption, which removes $50,000 off the assessed value of our home for real property taxes.
