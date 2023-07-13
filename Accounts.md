@@ -10,7 +10,7 @@
 |-------------|------------------------|-----------|------------------|-----------------------------------------------|
 | LMC MyChart | RalphHightower | Yes[^1][^2] | No | Don't know |
 | LinkedIn | RalphHightower | Yes[^1] | Yes | [Memorialize Account](https://www.linkedin.com/help/linkedin/ask/TS-RDMLP?lang=en)[^3]  |
-| GitHub Pro (Team) | RalphHightower | Yes[^4] | Yes | [GitHub Deceased User Policy - GitHub Docs](https://docs.github.com/en/site-policy/other-site-policies/github-deceased-user-policy)[^7]<br>or<br> [Downgrading your GitHub subscription](https://docs.github.com/en/billing/managing-billing-for-your-github-account/downgrading-your-github-subscription)[^5] | 
+| GitHub Pro (Team) | RalphHightower | Yes[^4] | Yes | [GitHub Deceased User Policy - GitHub Docs](https://docs.github.com/en/site-policy/other-site-policies/github-deceased-user-policy)[^7]<br />or<br /> [Downgrading your GitHub subscription](https://docs.github.com/en/billing/managing-billing-for-your-github-account/downgrading-your-github-subscription)[^5] | 
 | [Weather Channel Premium](https://www.weatherchannel.com/) | ralph.hightower@gmail.com | No | Yes | Cancel or reuse |
 | [Weather Underground](https://www.wunderground.com/) | ralph.hightower@gmail.com | No | Yes | Cancel or resuse |
 | [RealDash](https://my.realdash.net/plans/success?session_id=cs_live_a1oNf6eNIQSUrs2HGoV5d9BvIDXY7JUUiDNhb5v8txFgIf2kGiNmSPXoVY) | RalphHightower | No | Yes | Cancel |
