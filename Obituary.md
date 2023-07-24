@@ -1,9 +1,9 @@
-# Obituary: Ralph Maxwell Hightower, Jr<br />
+# Obituary: Ralph Maxwell Hightower, Jr
 
-## Bio<br />
+## Bio
 
 Ralph M. Hightower, Jr. CHAPIN, SC. -
-The \[\(morning\|afternoon\|evening\) of date\] Ralph Maxwell Hightower, Jr. passed away at \[location\] \[optional: due to (cause of death)\] \[comforted by family members present\]. Ralph was \[age\]. He was born in Bamberg, SC on May 23, 1954, as the first child and was preceded in death by his parents, Ralph (Mac) Maxwell Hightower Sr., and Marilyn Fox Hightower. <br />
+The \[\(morning\|afternoon\|evening\) of date\] Ralph Maxwell Hightower, Jr. passed away at \[location\] \[optional: due to (cause of death)\] \[comforted by family members present\]. Ralph was \[age\]. He was born in Bamberg, SC on May 23, 1954, as the first child and was preceded in death by his parents, Ralph (Mac) Maxwell Hightower Sr., and Marilyn Fox Hightower.
 
 Survivors include his wife, Paula Hightower, formerly Paula Lynn Lambert from Harlem, GA, sister Elizabeth Hightower Woodall (Larry) living in Bamberg, SC, and brother Arthur Chester (Chester) Hightower (Tammy) living in Aiken, SC. Although Ralph and Paula had no children, they have adopted and bred Beagles, with many as members of their household; some have competed in obedience, show confirmation, and performance (Fast CAT). He rejoins those Beagles from the past that have led the way and patiently waiting on the other side of the Rainbow Bridge. <br />
 
@@ -15,6 +15,7 @@ He was employed by NCR for fourteen years, where he met his wife; he didn't real
 ## Interests
 
 ### NASA
+
 Ralph was only four years older than NASA and followed NASA exploration in space beginning with manned spaceflight, Mercury through Apollo, the Space Shuttle and International Space Station, and unmanned space probes and instruments. He checked off a thirty year old bucket list item when he watched the final Space Shuttle launch on July 8, 2011. On July 21, he also got to witness the final landing next the Control Tower for the Shuttle Landing Facility, just 200 yards away from the runway for landing and final wheel stop. That was the second final space launch that he saw. The first was the U.S. half of the Apollo/Soyuz Test Project on July 17, 1975.<br />
 
 ### Water Skiing
@@ -32,12 +33,10 @@ Ralph and Paula have adopted and bred Beagles as members of the family with some
 ## Service
 
 Remembrance service will be held by \[funeral home\] on \[date/time\] at \[location\] with internment at \[location\].<br />
-<br />
 
 ## Memorials
 
 Donations may be made to the American Kennel Club Canine Health Foundation in memory of Ralph Hightower, Jr and their Beagle pack.<br />
-
 
 | Content | Web Site |
 |--------------|---------------|
