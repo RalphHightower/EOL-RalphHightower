@@ -1,5 +1,6 @@
 # Assets Endowment
-Our assets distribution will be legally established with an estate or trust using Barbara Brunson as our attorney. But this is our planned distribution. <br>
+
+Our assets distribution will be legally established with an estate or trust using Barbara Brunson as our attorney. But this is our planned distribution.
 
 A trust will be set up for any Beagles for their care after Paula and I are gone.
 
