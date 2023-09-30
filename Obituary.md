@@ -16,7 +16,7 @@ He was employed by NCR for fourteen years, where he met his wife; he didn't real
 
 ### NASA
 
-Ralph was only four years older than NASA and followed NASA exploration in space beginning with manned spaceflight, Mercury through Apollo, the Space Shuttle and International Space Station, and unmanned space probes and instruments. He checked off a thirty year old bucket list item when he watched the final Space Shuttle launch on July 8, 2011. On July 21, he also got to witness the final landing next the Control Tower for the Shuttle Landing Facility, just 200 yards away from the runway for landing and final wheel stop. That was the second final space launch that he saw. The first was the U.S. half of the Apollo/Soyuz Test Project on July 17, 1975.<br />
+Ralph was only four years older than NASA and followed NASA exploration in space beginning with manned spaceflight, Mercury through Apollo, the Space Shuttle and International Space Station, and unmanned space probes and instruments. He checked off a thirty year old bucket list item when he watched the final Space Shuttle launch on July 8, 2011. On July 21, he also got to witness the final landing next to the Control Tower for the Shuttle Landing Facility, just 200 yards away from the runway for landing and final wheel stop. That was the second final space launch that he saw. The first was the U.S. half of the Apollo/Soyuz Test Project on July 17, 1975.<br />
 
 ### Water Skiing
 
