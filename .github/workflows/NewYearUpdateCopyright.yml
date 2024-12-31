@@ -1,0 +1,37 @@
+name: Create Issue to Update Year In Relevant Files
+# developer: @RalphHightower 
+on:
+  schedule:
+    - cron: "0 5 1 1 *" # America/New_York (UTC-5:00)
+
+permissions: none 
+jobs:
+  create_issue:
+    name: Create issue to update copyright year
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Happy New Year!
+        run: |
+          new_issue_url=$(gh issue create \
+            --title "$TITLE" \
+            --assignee "$ASSIGNEES" \
+            --label "$LABELS" \
+            --body "$BODY")
+          if [[ $PINNED == true ]]; then
+            gh issue pin "$new_issue_url"
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          TITLE: Happy New  Year – Update License Year
+          ASSIGNEES: RalphHightower 
+          LABELS: documentation
+          BODY: |
+            ### New Year's Maintenance 
+
+            - [ ] Update LICENSE. Add new year to year's span.
+
+          PINNED: false
+          CLOSE_PREVIOUS: false
