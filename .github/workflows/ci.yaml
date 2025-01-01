@@ -1,0 +1,30 @@
+name: ci.yml – Continuous Integration
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: "Test with Jekyll ${{ matrix.jekyll }}"
+    runs-on: "ubuntu-latest"
+    strategy:
+      matrix:
+        jekyll: ["~> 4.3.4"]
+    env:
+      JEKYLL_VERSION: ${{ matrix.jekyll }}
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4.2.2
+      - name: Set Up Ruby 3.3.6
+        uses: ruby/setup-ruby@v1.206.0
+        with:
+          ruby-version: 3.3.6
+          bundler-cache: true
+      - name: Run tests
+        run: script/cibuild
