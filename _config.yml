@@ -12,7 +12,6 @@ author:
   usage: The information in my EOL Instructions is reserved for my wife and attorney. 
 description: > # this means to ignore newlines until "show_excerpts:"
   End Of Life Instructions and Services Planning of Ralph Hightower for Paula and and/or executors, probate. Includes Obituary, Songs For Service. what to do with power tools, outdoor power tools, camera gear. Computers and network configurations.
-show_excerpts: false # set to true to show excerpts on the homepage
 
 repository: 'RalphHightower/EOL-RalphHightower'
 url: 'https://ralphhightower.github.io'
