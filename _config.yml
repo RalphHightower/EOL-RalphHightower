@@ -11,8 +11,7 @@ author:
   #birthdate: ${{secrets.BIRTHDATE}}
   usage: The information in my EOL Instructions is reserved for my wife and attorney. 
 description: > # this means to ignore newlines until "show_excerpts:"
-  End Of Life Instructions and Services Planning of Ralph Hightower for Paula and and/or executors, probate. Includes Obituary, Songs For Service. what to do with power tools, outdoor power tools, camera gear. Computers and network configurations.
-
+  End Of Life Instructions and Services Planning of Ralph Hightower for Paula and and/or executors, probate. Includes Obituary, Songs For Service. what to do with power tools, outdoor power tools, camera gear. Computers and network configurations. There is no code, no libraries, no applications, associated with my personal planning.
 repository: 'RalphHightower/EOL-RalphHightower'
 url: 'https://ralphhightower.github.io'
 baseurl: "EOL-RalphHightower/"
