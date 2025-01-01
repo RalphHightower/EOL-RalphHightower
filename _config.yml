@@ -7,7 +7,6 @@ author:
   state: "South Carolina"
   zip_code: 29036-9765
   country: United States of America
-  phone: +1 (803) 622-6566
   #cellphone: ${{secrets.CELLPHONE}}
   #birthdate: ${{secrets.BIRTHDATE}}
   usage: The information in my EOL Instructions is reserved for my wife and attorney. 
@@ -17,7 +16,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 
 repository: 'RalphHightower/EOL-RalphHightower'
 url: 'https://ralphhightower.github.io'
-baseurl: EOL-RalphHightower/"
+baseurl: "EOL-RalphHightower/"
 timezone: 'America/New_York'
 
 # Build settings
@@ -52,7 +51,7 @@ plugins:
 # - about.md
 
 # Set to `true` to show excerpts on the homepage.
-show_excerpts: true
+show_excerpts: false
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
@@ -93,7 +92,6 @@ minima:
 # pagination 
 paginate: 10
 paginate_path: "/blog/page:num/"
-
 
 ai_related_posts:
   openai_api_key: {{ secrets.OPEN_AI_KEY }}
