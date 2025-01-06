@@ -1,3 +1,3 @@
-#!/bin/sh
+#!/bin/bash
 
-sh -c "cd /home/app/pandoc && make pdf"
+bash -c "cd /home/app/pandoc && make pdf"
