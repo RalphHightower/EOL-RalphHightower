@@ -1,6 +1,6 @@
 # Reporting Security Issues
 
-To report a security issue, please email [ralph.hightower+blog-sec@gmail.com](milto:ralph.hightower+blog-sec@gmail.com)
+To report a security issue, please email [ralph.hightower+EOL-Hightower-sec@gmail.com](milto:ralph.hightower+EOL-Hightower-sec@gmail.com)
 with a description of the issue, the steps you took to create the issue,
 affected versions, and, if known, mitigations for the issue.
 
