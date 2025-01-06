@@ -5,9 +5,9 @@ services:
   resume-make:
     build:
       context: .
-      dockerfile: ./.docker/resume.dockerfile
-    container_name: resume-make
+      dockerfile: ./.docker/pandic.dockerfile
+    container_name: pandoc-make
     entrypoint: /entrypoint.sh
-    image: resume-make
+    image: pandoc-make
     volumes:
-      - .:/home/app/resume:z
+      - .:/home/app/pandoc:z
