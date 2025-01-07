@@ -1,0 +1,10 @@
+- name "Setup pandoc. from @pandoc/actions"
+
+jobs:
+  pandoc:
+    steps:
+      - name: Install pandoc
+        uses: pandoc/actions/setup@v1
+
+      - name: Run pandoc
+        run: pandoc --version
