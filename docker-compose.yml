@@ -2,7 +2,7 @@ version: '2'
 
 services:
 
-  resume-make:
+  pandoc-make:
     build:
       context: .
       dockerfile: ./.docker/pandic.dockerfile
