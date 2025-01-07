@@ -2,7 +2,7 @@
 *.log
 *.pdf
 *.html
-resume.tex
+pandoc.tex
 *.swo
 *.swp
 *.docx
