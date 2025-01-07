@@ -21,7 +21,7 @@
       perSystem = nixpkgs.lib.genAttrs supportedSystems;
       pkgsFor = system: import nixpkgs { inherit system; };
 
-      buildResumeFor = system:
+      buildPandocFor = system:
         let pkgs = pkgsFor system;
         in pkgs.runCommand "build-pandoc" {
           nativeBuildInputs = with pkgs; [ pandoc texlive.combined.scheme-context ];
