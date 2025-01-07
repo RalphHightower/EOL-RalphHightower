@@ -5,9 +5,9 @@ services:
   pandoc-make:
     build:
       context: .
-      dockerfile: ./.docker/pandic.dockerfile
+      dockerfile: ./.docker/pandoc.dockerfile
     container_name: pandoc-make
-    entrypoint: /entrypoint.sh
+    entrypoint: ./actions/entrypoint.sh
     image: pandoc-make
     volumes:
       - .:/home/app/pandoc:z
