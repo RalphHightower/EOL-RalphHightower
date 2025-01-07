@@ -1,0 +1,76 @@
+name: Build
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Pandoc
+      run: |
+        sudo apt-get install -y pandoc context
+
+    - name: Initialize directories
+      run: mkdir -p output
+
+    - name: Check Pandoc version
+      id: version
+      run: |
+        PANDOC_VERSION=$(pandoc --version | head -1 | cut -d' ' -f2 | cut -d'.' -f1)
+        if [ "$PANDOC_VERSION" -eq "2" ]; then
+          echo "::set-output name=smart_flag;-smart"
+        else
+          echo "::set-output name=smart_flag;--smart"
+        fi
+
+    - name: Build HTML
+      run: |
+        for f in markdown/*.md; do
+          FILE_NAME=$(basename "$f" | sed 's/.md//g')
+          pandoc --standalone --include-in-header styles/chmduquesne.css \
+            --lua-filter=pdc-links-target-blank.lua \
+            --from markdown --to html \
+            --output output/${FILE_NAME}.html $f \
+            --metadata pagetitle=$FILE_NAME
+        done
+
+    - name: Build PDF
+      run: |
+        for f in markdown/*.md; do
+          FILE_NAME=$(basename "$f" | sed 's/.md//g')
+          pandoc --standalone --template styles/chmduquesne.tex \
+            --from markdown --to context \
+            --variable papersize=A4 \
+            --output output/${FILE_NAME}.tex $f
+          mtxrun --path=output --result=${FILE_NAME}.pdf --script context ${FILE_NAME}.tex
+        done
+
+    - name: Build DOCX
+      run: |
+        for f in markdown/*.md; do
+          FILE_NAME=$(basename "$f" | sed 's/.md//g')
+          pandoc --standalone ${{ steps.version.outputs.smart_flag }} $f --output output/${FILE_NAME}.docx
+        done
+
+    - name: Build RTF
+      run: |
+        for f in markdown/*.md; do
+          FILE_NAME=$(basename "$f" | sed 's/.md//g')
+          pandoc --standalone ${{ steps.version.outputs.smart_flag }} $f --output output/${FILE_NAME}.rtf
+        done
+
+    - name: Upload output
+      uses: actions/upload-artifact@v2
+      with:
+        name: output
+        path: output
