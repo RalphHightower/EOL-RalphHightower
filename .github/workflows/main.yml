@@ -6,7 +6,7 @@ name: build-pandoc files
 on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
-    branches: [ master ]
+    branches: [ main ]
     paths:
       - 'markdown/**'
 
@@ -14,7 +14,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build-resume:
+  build-pandoc:
     runs-on: ubuntu-latest
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
