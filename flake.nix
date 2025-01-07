@@ -23,7 +23,7 @@
 
       buildResumeFor = system:
         let pkgs = pkgsFor system;
-        in pkgs.runCommand "build-resume" {
+        in pkgs.runCommand "build-pandoc" {
           nativeBuildInputs = with pkgs; [ pandoc texlive.combined.scheme-context ];
         } ''
           cd ${self}
@@ -32,11 +32,11 @@
     in {
       packages = perSystem (system:
         let
-          resume = buildResumeFor system;
+          pandoc = buildPandocFor system;
         in
         {
-          inherit resume;
-          default = resume;
+          inherit pandoc;
+          default = pandoc;
         });
 
       devShells = perSystem (system: {

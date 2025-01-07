@@ -23,7 +23,7 @@ jobs:
       - name: Test directory contents
         run: 'ls -al'
 
-      - name: Build resume
+      - name: Build pandoc
         uses: ./actions
 
       - name: Upload a Build Artifact
