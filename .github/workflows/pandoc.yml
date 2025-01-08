@@ -47,7 +47,7 @@ jobs:
           #   --output output/${FILE_NAME}.tex $f
           # mtxrun --path=output --result=${FILE_NAME}.pdf --script context ${FILE_NAME}.tex
           pandoc --standalone --from markdown --to pdf --output output/${FILE_NAME}.pdf $f
-          git add ${FILE_NAME}.pdf
+          git add output/${FILE_NAME}.pdf
         done
 
     - name: Build DOCX
