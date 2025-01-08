@@ -39,6 +39,7 @@ jobs:
           echo $f # debug
           FILE_NAME=$(basename "$f" | sed 's/.md//g')
           echo $FILE_NAME # debug
+          echo output/${FILE_NAME}.pdf # debug 
           # pandoc --standalone \ # --template styles/chmduquesne.tex \
           #   --from markdown --to context \
           #  --variable papersize=letter \
