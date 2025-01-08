@@ -42,6 +42,7 @@ jobs:
             --from markdown --to html \
             --output output/${FILE_NAME}.html $f \
             --metadata pagetitle=$FILE_NAME
+          git add output/${FILE_NAME}.html
         done
 
     - name: Build PDF
@@ -53,6 +54,7 @@ jobs:
             --variable papersize=A4 \
             --output output/${FILE_NAME}.tex $f
           mtxrun --path=output --result=${FILE_NAME}.pdf --script context ${FILE_NAME}.tex
+          git add output/${FILE_NAME}.pdf
         done
 
     - name: Build DOCX
@@ -60,6 +62,7 @@ jobs:
         for f in markdown/*.md; do
           FILE_NAME=$(basename "$f" | sed 's/.md//g')
           pandoc --standalone ${{ steps.version.outputs.smart_flag }} $f --output output/${FILE_NAME}.docx
+          git add output/${FILE_NAME}.docx
         done
 
     - name: Build RTF
@@ -67,6 +70,7 @@ jobs:
         for f in markdown/*.md; do
           FILE_NAME=$(basename "$f" | sed 's/.md//g')
           pandoc --standalone ${{ steps.version.outputs.smart_flag }} $f --output output/${FILE_NAME}.rtf
+          git add output/${FILE_NAME}.rtf
         done
 
     - name: Upload output
@@ -74,3 +78,12 @@ jobs:
       with:
         name: output
         path: output
+
+    - name: ⤴ Commit updated version
+        run: |
+          git pull 'https://${{secrets.GITHUB_TOKEN}}@github.com/RalphHightower/EOL-RalphHightower.git'
+          git config remote.origin.url 'https://${{secrets.GITHUB_TOKEN}}@github.com/RalphHightower/EOL-RalphHightower.git'
+          git config user.name RalphHightower 
+          git config user.email ralph.hightower@gmail.com
+          git commit -am "[docs](doc): Update Documents"
+          git push
