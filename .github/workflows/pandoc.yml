@@ -36,7 +36,9 @@ jobs:
     - name: Build PDF
       run: |
         for f in markdown/*.md; do
+          echo $f # debug
           FILE_NAME=$(basename "$f" | sed 's/.md//g')
+          echo $FILE_NAME # debug
           pandoc --standalone \ # --template styles/chmduquesne.tex \
             --from markdown --to context \
             --variable papersize=letter \
