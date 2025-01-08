@@ -39,12 +39,13 @@ jobs:
           echo $f # debug
           FILE_NAME=$(basename "$f" | sed 's/.md//g')
           echo $FILE_NAME # debug
-          pandoc --standalone \ # --template styles/chmduquesne.tex \
-            --from markdown --to context \
-            --variable papersize=letter \
-            --verbose \ # debug
-            --output output/${FILE_NAME}.tex $f
-          mtxrun --path=output --result=${FILE_NAME}.pdf --script context ${FILE_NAME}.tex
+          # pandoc --standalone \ # --template styles/chmduquesne.tex \
+          #   --from markdown --to context \
+          #  --variable papersize=letter \
+          #   --verbose \ # debug
+          #   --output output/${FILE_NAME}.tex $f
+          # mtxrun --path=output --result=${FILE_NAME}.pdf --script context ${FILE_NAME}.tex
+          pandoc --standalone --from markdown --to pdf --output output/${FILE_NAME}.pdf $f
           git add ${FILE_NAME}.pdf
         done
 
