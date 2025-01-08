@@ -46,7 +46,9 @@ jobs:
           #   --verbose \ # debug
           #   --output output/${FILE_NAME}.tex $f
           # mtxrun --path=output --result=${FILE_NAME}.pdf --script context ${FILE_NAME}.tex
-          pandoc --verbose --standalone --from markdown --to pdf --output output/${FILE_NAME}.pdf $f
+          # pandoc --verbose --standalone --from markdown --to pdf --output output/${FILE_NAME}.pdf $f
+          pandoc --verbose --standalone --from markdown --to pdf --output output/${FILE_NAME}.tex  $f
+          mtxrun --path=output --result=${FILE_NAME}.pdf --script context ${FILE_NAME}.tex
           git add output/${FILE_NAME}.pdf
         done
 
