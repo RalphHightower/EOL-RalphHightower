@@ -1,4 +1,4 @@
-name: Create Issue to Update Year In Relevant Files
+name: NewYearUpdateCopyrightYear.yml – Create Issue to Update Year In Relevant Files
 # developer: @RalphHightower 
 on:
   schedule:
