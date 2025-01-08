@@ -33,18 +33,6 @@ jobs:
           echo "::set-output name=smart_flag;--smart"
         fi
 
-    - name: Build HTML
-      run: |
-        for f in markdown/*.md; do
-          FILE_NAME=$(basename "$f" | sed 's/.md//g')
-          pandoc --standalone \ # --include-in-header styles/chmduquesne.css \
-            --lua-filter=pdc-links-target-blank.lua \
-            --from markdown --to html \
-            --output output/${FILE_NAME}.html $f \
-            --metadata pagetitle=$FILE_NAME
-          git add output/${FILE_NAME}.html
-        done
-
     - name: Build PDF
       run: |
         for f in markdown/*.md; do
