@@ -37,22 +37,24 @@ jobs:
       run: |
         for f in markdown/*.md; do
           FILE_NAME=$(basename "$f" | sed 's/.md//g')
-          pandoc --standalone --include-in-header styles/chmduquesne.css \
+          pandoc --standalone \ # --include-in-header styles/chmduquesne.css \
             --lua-filter=pdc-links-target-blank.lua \
             --from markdown --to html \
             --output output/${FILE_NAME}.html $f \
             --metadata pagetitle=$FILE_NAME
+          git add output/${FILE_NAME}.html
         done
 
     - name: Build PDF
       run: |
         for f in markdown/*.md; do
           FILE_NAME=$(basename "$f" | sed 's/.md//g')
-          pandoc --standalone --template styles/chmduquesne.tex \
+          pandoc --standalone \ # --template styles/chmduquesne.tex \
             --from markdown --to context \
             --variable papersize=A4 \
             --output output/${FILE_NAME}.tex $f
           mtxrun --path=output --result=${FILE_NAME}.pdf --script context ${FILE_NAME}.tex
+          git add ${FILE_NAME}.pdf
         done
 
     - name: Build DOCX
@@ -60,6 +62,7 @@ jobs:
         for f in markdown/*.md; do
           FILE_NAME=$(basename "$f" | sed 's/.md//g')
           pandoc --standalone ${{ steps.version.outputs.smart_flag }} $f --output output/${FILE_NAME}.docx
+          git add output/${FILE_NAME}.docx
         done
 
     - name: Build RTF
@@ -67,7 +70,12 @@ jobs:
         for f in markdown/*.md; do
           FILE_NAME=$(basename "$f" | sed 's/.md//g')
           pandoc --standalone ${{ steps.version.outputs.smart_flag }} $f --output output/${FILE_NAME}.rtf
+          git add output/${FILE_NAME}.rtf
         done
+
+    - name: Check in documents 
+      run : |
+        git commit -m "[docs](doc): adding output to GitHub"
 
     - name: Upload output
       uses: actions/upload-artifact@v4.5.0
