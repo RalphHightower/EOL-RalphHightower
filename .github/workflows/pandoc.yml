@@ -1,4 +1,4 @@
-name: Build
+name: pandoc.yml – Create documents
 
 on:
   push:
