@@ -1,4 +1,4 @@
-- name "Setup pandoc. from @pandoc/actions"
+- name "pandoc-setup.yml – Setup pandoc. from @pandoc/actions"
 
 jobs:
   pandoc:
