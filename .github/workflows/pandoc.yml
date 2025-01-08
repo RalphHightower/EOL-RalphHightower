@@ -42,6 +42,7 @@ jobs:
           pandoc --standalone \ # --template styles/chmduquesne.tex \
             --from markdown --to context \
             --variable papersize=letter \
+            --verbose \ # debug
             --output output/${FILE_NAME}.tex $f
           mtxrun --path=output --result=${FILE_NAME}.pdf --script context ${FILE_NAME}.tex
           git add ${FILE_NAME}.pdf
