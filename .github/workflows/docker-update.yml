@@ -3,7 +3,7 @@
 # workflow runs whenever the dockerfile is changed, and updates the
 # container image in the Github Packages registry.
 
-name: Publish Docker Image
+name: docker-update.yml – Publish Docker Image
 
 # Controls when the action will run. 
 on:
