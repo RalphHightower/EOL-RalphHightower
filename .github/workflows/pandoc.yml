@@ -46,7 +46,7 @@ jobs:
           #   --verbose \ # debug
           #   --output output/${FILE_NAME}.tex $f
           # mtxrun --path=output --result=${FILE_NAME}.pdf --script context ${FILE_NAME}.tex
-          pandoc --standalone --from markdown --to pdf --output output/${FILE_NAME}.pdf $f
+          pandoc --standalone --from markdown --to pdfa --output output/${FILE_NAME}.pdf $f
           git add output/${FILE_NAME}.pdf
         done
 
@@ -56,14 +56,6 @@ jobs:
           FILE_NAME=$(basename "$f" | sed 's/.md//g')
           pandoc --standalone ${{ steps.version.outputs.smart_flag }} $f --output output/${FILE_NAME}.docx
           git add output/${FILE_NAME}.docx
-        done
-
-    - name: Build RTF
-      run: |
-        for f in markdown/*.md; do
-          FILE_NAME=$(basename "$f" | sed 's/.md//g')
-          pandoc --standalone ${{ steps.version.outputs.smart_flag }} $f --output output/${FILE_NAME}.rtf
-          git add output/${FILE_NAME}.rtf
         done
 
     - name: Check in documents 
