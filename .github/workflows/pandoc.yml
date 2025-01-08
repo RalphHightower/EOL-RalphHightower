@@ -40,7 +40,7 @@ jobs:
           pandoc --standalone \ # --include-in-header styles/chmduquesne.css \
             --lua-filter=pdc-links-target-blank.lua \
             --from markdown --to html \
-            --output output/${FILE_NAME}.html $f \
+            --output output/${FILE_NAME}.html markdown/$f \
             --metadata pagetitle=$FILE_NAME
           git add output/${FILE_NAME}.html
         done
@@ -52,7 +52,7 @@ jobs:
           pandoc --standalone \ # --template styles/chmduquesne.tex \
             --from markdown --to context \
             --variable papersize=letter \
-            --output output/${FILE_NAME}.tex $f
+            --output output/${FILE_NAME}.tex markdown/$f
           mtxrun --path=output --result=${FILE_NAME}.pdf --script context ${FILE_NAME}.tex
           git add ${FILE_NAME}.pdf
         done
@@ -61,7 +61,7 @@ jobs:
       run: |
         for f in markdown/*.md; do
           FILE_NAME=$(basename "$f" | sed 's/.md//g')
-          pandoc --standalone ${{ steps.version.outputs.smart_flag }} $f --output output/${FILE_NAME}.docx
+          pandoc --standalone ${{ steps.version.outputs.smart_flag }} markdown/$f --output output/${FILE_NAME}.docx
           git add output/${FILE_NAME}.docx
         done
 
@@ -69,7 +69,7 @@ jobs:
       run: |
         for f in markdown/*.md; do
           FILE_NAME=$(basename "$f" | sed 's/.md//g')
-          pandoc --standalone ${{ steps.version.outputs.smart_flag }} $f --output output/${FILE_NAME}.rtf
+          pandoc --standalone ${{ steps.version.outputs.smart_flag }} markdown/$f --output output/${FILE_NAME}.rtf
           git add output/${FILE_NAME}.rtf
         done
 
