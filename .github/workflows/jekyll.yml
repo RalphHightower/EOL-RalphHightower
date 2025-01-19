@@ -34,11 +34,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4.2.2
       - name: Setup Ruby
-        uses: ruby/setup-ruby@v1.206.0
+        uses: ruby/setup-ruby@v1.213.0
         with:
           ruby-version: '3.3.6' # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-          cache-version: 1 # Increment this number if you need to re-download cached gems
+          cache-version: 4 # Increment this number if you need to re-download cached gems
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5.0.0
