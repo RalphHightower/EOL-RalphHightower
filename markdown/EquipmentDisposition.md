@@ -6,7 +6,7 @@ The Hix Prohibition Rule applies to Jefferson (Jeff) and/or Roberta (Bert) Hix a
 
 | word | definition |
 |-----------|---------------|
-| [RFC-2119 — Key words for use in RFCs to Indicate Requirement Levels](https://www.rfc-editor.org/rfc/rfc2119)[^11] | This Internet Engineering Task Force Request For Comments is written for use concerning standards where it concerns the internet; but this is also useful for the English language for defining what is required and what is optional. |
+| [RFC-2119 — Key words for use in RFCs to Indicate Requirement Levels](https://www.rfc-editor.org/info/rfc2119[^11] | This Internet Engineering Task Force Request For Comments is written for use concerning standards where it concerns the internet; but this is also useful for the English language for defining what is required and what is optional. |
 | must | instructions are strictly adhered to without any deviations. No ifs, ands, or buts. |
 | may | it is permitted |
 | can | it is permitted |
