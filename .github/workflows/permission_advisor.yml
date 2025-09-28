@@ -21,7 +21,12 @@ jobs:
   advisor:
     runs-on: ubuntu-latest
     steps:
-    - uses: GitHubSecurityLab/actions-permissions/advisor@v1.0.2-beta5
+    - name: Harden the runner (Audit all outbound calls)
+      uses: step-security/harden-runner@f4a75cfd619ee5ce8d5b864b0d183aff3c69b55a # v2.13.1
+      with:
+        egress-policy: audit
+
+    - uses: GitHubSecurityLab/actions-permissions/advisor@babd69bc8d78e6cdece903dfdcfb72d4e1a4f00d # v1.0.2-beta5
       with:
         name: ${{ inputs.name }}
         count: ${{ inputs.count }}
