@@ -1,9 +1,7 @@
-# .github/workflows/stale-branches.yml
-
 name: stale-branches.yml – Delete Stale Branches
 
 on:
-  workflow_dispatch:  # Manual trigger from GitHub UI
+  #workflow_dispatch:  # Manual trigger from GitHub UI
   schedule:
     - cron: '0 6 * * 0'
 
@@ -23,18 +21,18 @@ jobs:
       - name: Stale Branches
         uses: crs-k/stale-branches@865501af01284d43aef267d4b9aab0f9f1734b12 # v8.2.2
         with:
-          # days-before-delete: 180
-          # comment-updates: false
-          # max-issues: 20
-          tag-committer: true
-          # stale-branch-label: 'stale branch 🗑️'
-          # compare-branches: 'info'
-          # branches-filter-regex: '^((?!dependabot))'
-          # rate-limit: false
-          # pr-check: false
-          # dry-run: false
-          # ignore-issue-interaction: false
-          # include-protected-branches: false
-          # include-ruleset-branches: false
-          # ignore-commit-messages: ''
-          # ignore-committers: ''
+            # days-before-delete: 180
+            # comment-updates: false
+            # max-issues: 20
+            tag-committer: true
+            stale-branch-label: 'stale branch 🗑️'
+            # compare-branches: 'info'
+            # branches-filter-regex: '^((?!dependabot))'
+            # rate-limit: false
+            # pr-check: false
+            # dry-run: false
+            # ignore-issue-interaction: false
+            # include-protected-branches: false
+            # include-ruleset-branches: false
+            # ignore-commit-messages: ''
+            # ignore-committers: ''
