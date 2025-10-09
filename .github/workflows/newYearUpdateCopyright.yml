@@ -1,0 +1,29 @@
+name: newYearUpdateCopyright.yml – New Year LICENSE Reminder
+
+on:
+  schedule:
+    - cron: '0 5 1 1 *'  # Midnight EST on Jan 1 America/New_York
+  #workflow_dispatch:
+
+permissions: read-all
+
+jobs:
+  create-issue:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Harden the runner (Audit all outbound calls)
+        uses: step-security/harden-runner@f4a75cfd619ee5ce8d5b864b0d183aff3c69b55a # v2.13.1
+        with:
+          egress-policy: audit
+
+      - name: Create LICENSE update issue
+        uses: peter-evans/create-issue-from-file@fca9117c27cdc29c6c4db3b86c48e4115a786710 # v6.0.0
+        with:
+          title: "Update LICENSE for the new year"
+          content-filepath: .github/license-reminder.md
+          assignees: RalphHightower
+          labels: |
+            maintenance
+            license
