@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Obituary: Ralph Maxwell Hightower, Jr
+title: Obituary – Ralph Maxwell Hightower, Jr
 ---
 
 ## Bio
