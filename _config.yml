@@ -12,10 +12,13 @@ author:
   usage: The information in my EOL Instructions is reserved for my wife and attorney. 
 description: > # this means to ignore newlines until "show_excerpts:"
   End Of Life Instructions and Services Planning of Ralph Hightower for Paula and and/or executors, probate. Includes Obituary, Songs For Service. what to do with power tools, outdoor power tools, camera gear. Computers and network configurations. There is no code, no libraries, no applications, associated with my personal planning.
+
 repository: 'RalphHightower/EOL-RalphHightower'
 url: 'https://ralphhightower.github.io'
 baseurl: "EOL-RalphHightower/"
 timezone: 'America/New_York'
+github_username: RalphHightower
+#google_analytics: 
 
 # Build settings
 
@@ -32,15 +35,15 @@ plugins:
   - jekyll-github-metadata
   - jekyll-mentions
   - jekyll-optional-front-matter
-  - jekyll-paginate
   - jekyll-readme-index
   - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-sitemap
-  # - jekyll-tagging
+ # - jekyll-tagging
   - jekyll-titles-from-headings
-  - jekyll_ai_related_posts
-   
+  - jekyll-toc
+  - jemoji
+
 # Theme-specific settings
 
 # If you want to link only specific pages in your header, use this and add the path to the pages
@@ -87,22 +90,14 @@ minima:
   # - { platform: pinterest, user_url: "https://www.pinterest.com/RalphHightower" }
   # - { platform: twitter, user_url: "https://twitter.com/RalphHightower" }
 
-# pagination 
-paginate: 10
-paginate_path: "/blog/page:num/"
-
-ai_related_posts:
-  openai_api_key: {{ secrets.OPEN_AI_KEY }}
-  fetch_enabled: prod
-    
-optional_front_matter:
-  remove_originals: true
-  enabled: true
-
 readme_index:
   enabled: true
   remove_originals: true
   with_frontmatter: true
+
+relative_links:
+  enabled:     true
+  collections: true
 
 tag_page_layout: tag_page
 tag_page_dir: tag
@@ -111,6 +106,17 @@ titles_from_headings:
   enabled: false
   strip_title: true
   collections: true
+
+toc:
+  min_level: 1
+  max_level: 6
+  ordered_list: false
+  no_toc_section_class: no_toc_section
+  list_id: toc
+  list_class: section-nav
+  sublist_class: ''
+  item_class: toc-entry
+  item_prefix: toc-
 
 # Optional. The default date format is used if none is specified in the tag.
 last-modified-at:
