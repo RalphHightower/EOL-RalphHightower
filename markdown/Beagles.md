@@ -1,4 +1,8 @@
-# Beagles 
+---
+layout: page
+title: Beagles 
+---
+
 ## Current Beagles 
 
 | Registered Name | Call Name | Birth Date | Sex | Markings | Photo | Breeder | Owner | AKC Registration | Microchip | Health Conditions |

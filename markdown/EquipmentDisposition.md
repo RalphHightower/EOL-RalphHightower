@@ -1,12 +1,17 @@
-# Equipment Disposition 
+---
+layout: page
+title: Equipment Disposition 
+---
+
 ## The Hix Prohibition 
+
 The Hix Prohibition Rule applies to Jefferson (Jeff) and/or Roberta (Bert) Hix and/or any proxies representing either person. Under no circumstances will Jefferson and/or Roberta Hix have any opportunity to gain ownership or control of anything. They and/or any of their proxies, designated or clandestine, are prohibited from obtaining any disposed possessions through estate sale, auction, or other means of disposition.
 
 ## Definitions
 
 | word | definition |
 |-----------|---------------|
-| [RFC-2119 — Key words for use in RFCs to Indicate Requirement Levels](https://www.rfc-editor.org/info/rfc2119[^11] | This Internet Engineering Task Force Request For Comments is written for use concerning standards where it concerns the internet; but this is also useful for the English language for defining what is required and what is optional. |
+| [RFC-2119 — Key words for use in RFCs to Indicate Requirement Levels](https://www.rfc-editor.org/rfc/rfc2119)[^11] | This Internet Engineering Task Force Request For Comments is written for use concerning standards where it concerns the internet; but this is also useful for the English language for defining what is required and what is optional. |
 | must | instructions are strictly adhered to without any deviations. No ifs, ands, or buts. |
 | may | it is permitted |
 | can | it is permitted |

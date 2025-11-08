@@ -1,4 +1,7 @@
-# Assets Endowment
+---
+layout: page
+title: Assets Endowment
+---
 
 Our assets distribution will be legally established with an estate or trust using Barbara Brunson as our attorney. But this is our planned distribution.
 
