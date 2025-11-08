@@ -1,0 +1,48 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+// [github/mona-sans: Mona Sans, a variable font from GitHub](https://github.com/github/mona-sans)
+
+@font-face {
+  font-family: 'Mona Sans';
+  src:
+    url('Mona-Sans.woff2') format('woff2 supports variations'),
+    url('Mona-Sans.woff2') format('woff2-variations');
+  font-weight: 200 900;
+  font-stretch: 75% 125%;
+}
+
+@font-face {
+  font-family: 'Hubot Sans';
+  src:
+    url('Hubot-Sans.woff2') format('woff2 supports variations'),
+    url('Hubot-Sans.woff2') format('woff2-variations');
+  font-weight: 200 900;
+  font-stretch: 75% 125%;
+}
+$base-font-family: "Mona Sans", Roboto, Helvetica, Arial, sans-serif !default;
+$code-font-family: "Hubot Sans", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
+
+
+
+html {
+  font-family: 'Mona Sans';
+}
+
+.site-nav {
+  text-align: left;
+  }
+
+
+a {
+  text-decoration: underline;
+  }
+
+th {
+    vertical-align: middle;
+    text-align: center;
+  }
+td {
+  vertical-align: top;
+  text-align: left;
+}
