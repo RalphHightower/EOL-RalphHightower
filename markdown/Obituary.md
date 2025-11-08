@@ -1,4 +1,7 @@
-# Obituary: Ralph Maxwell Hightower, Jr
+---
+layout: page
+title: Obituary: Ralph Maxwell Hightower, Jr
+---
 
 ## Bio
 

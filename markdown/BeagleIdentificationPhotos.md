@@ -1,4 +1,7 @@
-# Beagle Identification Photos 
+---
+layout: page
+title: Beagle Identification Photos 
+---
 
 ## ~~River[^11]~~
 
@@ -6,6 +9,7 @@
 ![River](Photos/River-side.jpg)
 
 ## Austin 
+
 ![Austin](Photos/Austin-front.jpg)
 
 ## ~~River and[^11]~~ Austin

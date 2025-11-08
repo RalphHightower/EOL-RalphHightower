@@ -1,12 +1,17 @@
-# Equipment Disposition 
-## The Hix Prohibition 
+---
+layout: page
+title: Equipment Disposition
+---
+
+## The Hix Prohibition
+
 The Hix Prohibition Rule applies to Jefferson (Jeff) and/or Roberta (Bert) Hix and/or any proxies representing either person. Under no circumstances will Jefferson and/or Roberta Hix have any opportunity to gain ownership or control of anything. They and/or any of their proxies, designated or clandestine, are prohibited from obtaining any disposed possessions through estate sale, auction, or other means of disposition.
 
 ## Definitions
 
 | word | definition |
 |-----------|---------------|
-| [RFC-2119 — Key words for use in RFCs to Indicate Requirement Levels](https://www.rfc-editor.org/info/rfc2119[^11] | This Internet Engineering Task Force Request For Comments is written for use concerning standards where it concerns the internet; but this is also useful for the English language for defining what is required and what is optional. |
+| [RFC 2119: Key words for use in RFCs to Indicate Requirement Levels](https://www.rfc-editor.org/rfc/rfc2119.html)[^11] | This Internet Engineering Task Force Request For Comments is written for use concerning standards where it concerns the internet; but this is also useful for the English language for defining what is required and what is optional. |
 | must | instructions are strictly adhered to without any deviations. No ifs, ands, or buts. |
 | may | it is permitted |
 | can | it is permitted |
@@ -26,16 +31,18 @@ The Hix Prohibition Rule applies to Jefferson (Jeff) and/or Roberta (Bert) Hix a
 
 
 ## Active Computers
-- All active computers must have their hard drives and SSD (Solid State Drive) fully reformatted before gifting or recycling ♻️. 
-- Networking equipment may be gifted or recycled ♻️. 
+
+- All active computers must have their hard drives and SSD (Solid State Drive) fully reformatted before gifting or recycling ♻️.
+- Networking equipment may be gifted or recycled ♻️.
 - Printers may be gifted or recycled ♻️.
-- Monitors may be gifted or recycled ♻️. 
-- UPS (Uninterruptable Power Supply) may be gifted or recycled ♻️. 
+- Monitors may be gifted or recycled ♻️.
+- UPS (Uninterruptable Power Supply) may be gifted or recycled ♻️.
 
-## Obsolete Computers 
-The computers may donated the computers to a willing museum, sold (Ebay) or recycled ♻️. 
+## Obsolete Computers
 
-### Possible Computer Museums 
+The computers may donated the computers to a willing museum, sold (Ebay) or recycled ♻️.
+
+### Possible Computer Museums
 
 | Museum | Location | Web Site |
 |------------|--------------|--------------|
@@ -62,7 +69,8 @@ The computers may donated the computers to a willing museum, sold (Ebay) or recy
 || SCSI Drive Cabinet | drives may work |
 
 ## HP (Hewlett-Packard) Calculators
-If any calculators are engraved with my SSN, it must be rendered illegible before donation, or gifting; otherwise, it may be recycled ♻️. The calculators maybe donated to a willing museum or sold. 
+
+If any calculators are engraved with my SSN, it must be rendered illegible before donation, or gifting; otherwise, it may be recycled ♻️. The calculators maybe donated to a willing museum or sold.
 
 | HP Calculators | Accessories | Disposition | Status |
 |----------------|-------------|-------|---------|
@@ -80,10 +88,10 @@ If any calculators are engraved with my SSN, it must be rendered illegible befor
 | HP-67 || dispose or recycle ♻️ | does not work |
 
 ## Computer Science : Books 📚:
-May be donated to the University of South Carolina College of Engineering, or Lexington County Library. 
-- Art of Computer Science (3 volume set) by Donald Knuth 
-- DEC VAX 11/780 Architecture Manuals Volumes 1-3 (2), if DEC VAXStation II/GPX is recycled 
 
+May be donated to the University of South Carolina College of Engineering, or Lexington County Library.
+- Art of Computer Science (3 volume set) by Donald Knuth
+- DEC VAX 11/780 Architecture Manuals Volumes 1-3 (2), if DEC VAXStation II/GPX is recycled
 
 ## Camera equipment
 
@@ -98,12 +106,13 @@ May be donated to the University of South Carolina College of Engineering, or Le
 | Canon EOS 5D Mark III, Canon EF 24-105mm f4L, Canon RT 600 II flash | Can be sold to KEH. |
 | PlusTek OpticFilm 8200i Ai film scanner, 35mm negative film carriers (2), 35mm slide film carriers (2) | May be assessed and sold to KEH |
 
-## 20 volt, 80 volt power equipment 
+## 20 volt, 80 volt power equipment
+
 There is an Excel spreadsheet on my computer that has the purchase date and price.
 
 ## [Dewalt 20 Volt Power 🔋 Tools 🔧](https://www.dewalt.com/)
 
-- Dewalt 20 volt power tools, batteries, and chargers, including accessories, such as drill bits, etc. may be sold or gifted. 
+- Dewalt 20 volt power tools, batteries, and chargers, including accessories, such as drill bits, etc. may be sold or gifted.
 
 | Model Number | Description |
 |--------------|-------------|
@@ -126,6 +135,7 @@ There is an Excel spreadsheet on my computer that has the purchase date and pric
 | DCB1112 | 20-Volt Max Power Tool Battery Charger |
 | DCB119 | 20-Volt Max Lithium Ion Vehicle Battery Charger |
 | *DCPR320B* | *20V MAX\* 1-1/2 in Cordless Pruner* |
+| *DCCS623B* | *20V MAX* 8 in. Brushless Cordless Pruning Chainsaw (Tool Only)* |
 | *DCM848P2* | *20V MAX\* XR® 5 in. Cordless Variable-Speed Random Orbit Polisher Kit* |
 | *DCM849P2* | *20V MAX\* XR® 7 in. Cordless Variable-Speed Rotary Polisher Kit* |
 | *DCCS623* | *20V Max Cordless Pruning Saw* |
@@ -134,23 +144,28 @@ There is an Excel spreadsheet on my computer that has the purchase date and pric
 | *DCB094K* | *USB Charging Kit* (with USB-C port and charger) |
 | *DXSP190681* | *4 gal. Cordless Backpack Sprayer* |
 
-[^21]: Since we are a one car family now, one was given to Elizabeth Longshore for her helping Paula 
+[^21]: Since we are a one car family now, one was given to Elizabeth Longshore for her helping Paula
 
 ## Lawn Equipment
-- Toro Zero-turn mower may be sold.
+
+- ~~Toro Zero-turn mower may be sold.~~[^31]
+
+[^31]: @RalphHightower: Sold
 
 ### [Kobalt 80-volt Outdoor Power 🔋 Tools 🔧](https://www.lowes.com/b/kobalt)
 
-Kobalt 80-volt outdoor power tools may be sold or gifted. 
+Kobalt 80-volt outdoor power tools may be sold or gifted.
 
-| Model Number | Description |
+| Model Number[^111] | Description |
 |------------------|-----------------|
-|#KIV 3080-06|Kobalt 300-Watt Battery Operated Power Inverter|
-|#KCS 4080-06|Kobalt 80-Volt Max 18-in Brushless Cordless Electric Chainsaw 5 Ah (Battery & Charger Included)|
-|#KST 2580-06|Kobalt 80-Volt Max 16-in Straight Cordless String Trimmer (Battery Included)|
-|#KHB 2580-06|Kobalt 80-volt Max 630-CFM 140-MPH Brushless Handheld Cordless Electric Leaf Blower 2.5 Ah (Battery & Charger Included)|
-|#KMP 6080-06|Kobalt 80-volt Max Brushless 21-in Self-propelled Cordless Electric Lawn Mower 6 Ah (Battery & Charger Included)|
-|#KCS 4080-06|Kobalt 80-Volt Max 18-in Brushless Cordless Electric Chainsaw 5 Ah (Battery & Charger Included)|
-|#KHT 260B-06|Kobalt 80-volt Max 630-CFM 140-MPH Brushless Handheld Cordless Electric Leaf Blower 2.5 Ah (Battery Charger Included)|
-|#KPS 2081-06|Kobalt 80-volt 10-in Cordless Electric Pole Saw 2 Ah (Battery & Charger Included)|
-|*#KWL 0080-06*|*Kobalt LED Portable Work Light*|
+| #KIV 3080-06 | Kobalt 300-Watt Battery Operated Power Inverter |
+| #KCS 4080-06 | Kobalt 80-Volt Max 18-in Brushless Cordless Electric Chainsaw 5 Ah (Battery & Charger Included) |
+| #KST 2580-06 | Kobalt 80-Volt Max 16-in Straight Cordless String Trimmer (Battery Included) |
+| #KHB 2580-06 | Kobalt 80-volt Max 630-CFM 140-MPH Brushless Handheld Cordless Electric Leaf Blower 2.5 Ah (Battery & Charger Included) |
+| #KMP 6080-06 | Kobalt 80-volt Max Brushless 21-in Self-propelled Cordless Electric Lawn Mower 6 Ah (Battery & Charger Included) |
+| #KCS 4080-06 | Kobalt 80-Volt Max 18-in Brushless Cordless Electric Chainsaw 5 Ah (Battery & Charger Included) |
+| #KHT 260B-06 | Kobalt 80-volt Max 630-CFM 140-MPH Brushless Handheld Cordless Electric Leaf Blower 2.5 Ah (Battery Charger Included) |
+| #KPS 2081-06 | Kobalt 80-volt 10-in Cordless Electric Pole Saw 2 Ah (Battery & Charger Included) |
+| *#KWL 0080-06*|*Kobalt LED Portable Work Light* |
+
+[^111]: @RalphHightower: *Italics* denote prior desired tools.
