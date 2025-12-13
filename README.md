@@ -21,4 +21,6 @@ Precise definitions used in all EOL Instructions/Documents about what is require
 
 [^11]: [RFC 2119: Key words for use in RFCs to Indicate Requirement Levels](https://www.rfc-editor.org/rfc/rfc2119)
 
-## Paula: If you have not done so yet, file with the Lexington County Assessor (first floor %}) for Homestead Tax Exemption, which removes $50,000 off the assessed value of our home for real property taxes.
+## Paula: If you have not done so yet, file with the Lexington County Assessor (first floor) for Homestead Tax Exemption, which removes $50,000 off the assessed value of our home for real property taxes.
+
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9878/badge)](https://www.bestpractices.dev/projects/9878)
