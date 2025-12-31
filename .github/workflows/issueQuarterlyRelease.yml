@@ -7,13 +7,15 @@ on:
     - cron: 30 5 31 12 *
   #workflow_dispatch:
 
-permissions: read-all
+permissions:
+  contents: read
 
 jobs:
   create-issue:
     runs-on: ubuntu-latest
     permissions:
       issues: write
+
     steps:
       - name: Harden the runner (Audit all outbound calls)
         uses: step-security/harden-runner@f4a75cfd619ee5ce8d5b864b0d183aff3c69b55a # v2.13.1
@@ -21,11 +23,25 @@ jobs:
           egress-policy: audit
 
       - name: Create Quarterly Release
-        uses: peter-evans/create-issue-from-file@fca9117c27cdc29c6c4db3b86c48e4115a786710 # v6.0.0
-        with:
-          title: "Issue Quarterly Release"
-          content-filepath: .github/quarterlyRelease.md
-          assignees: RalphHightower
-          labels: |
-            maintenance
-            license
+        run: |
+          new_issue_url=$(gh issue create \
+            --title "$TITLE" \
+            --assignee "$ASSIGNEES" \
+            --label "$LABELS" \
+            --body "$BODY")
+          if [[ $PINNED == true ]]; then
+            gh issue pin "$new_issue_url"
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          TITLE: "Maintenance: Quarterly Release"
+          ASSIGNEES: "RalphHightower"
+          LABELS: "maintenance,release – minor"
+          BODY: |
+            # Quarterly Release 
+
+            - [ ] Create Quarterly Release.
+
+          PINNED: false
+          CLOSE_PREVIOUS: false
