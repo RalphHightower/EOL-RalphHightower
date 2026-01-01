@@ -1,29 +1,40 @@
-name: newYearUpdateCopyright.yml – New Year LICENSE Reminder
-
+name: Create Issue to Update Year In Relevant Files
+# developer: @RalphHightower 
 on:
   schedule:
-    - cron: '0 5 1 1 *'  # Midnight EST on Jan 1 America/New_York
+    - cron: "0 5 1 1 *" # America/New_York (UTC-5:00)
   #workflow_dispatch:
 
-permissions: read-all
-
+permissions: 
+  contents: read
+ 
 jobs:
-  create-issue:
+  create_issue:
+    name: Create issue to update copyright year
     runs-on: ubuntu-latest
     permissions:
       issues: write
     steps:
-      - name: Harden the runner (Audit all outbound calls)
-        uses: step-security/harden-runner@f4a75cfd619ee5ce8d5b864b0d183aff3c69b55a # v2.13.1
-        with:
-          egress-policy: audit
+      - name: Happy New Year!
+        run: |
+          new_issue_url=$(gh issue create \
+            --title "$TITLE" \
+            --assignee "$ASSIGNEES" \
+            --label "$LABELS" \
+            --body "$BODY")
+          if [[ $PINNED == true ]]; then
+            gh issue pin "$new_issue_url"
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          TITLE: Happy New  Year! 🎆 – 🍾 Update License Year
+          ASSIGNEES: RalphHightower 
+          LABELS: "maintenance"
+          BODY: |
+            # New Year's Maintenance 
 
-      - name: Create LICENSE update issue
-        uses: peter-evans/create-issue-from-file@fca9117c27cdc29c6c4db3b86c48e4115a786710 # v6.0.0
-        with:
-          title: "Update LICENSE for the new year"
-          content-filepath: .github/license-reminder.md
-          assignees: RalphHightower
-          labels: |
-            maintenance
-            license
+            - [ ] Update LICENSE. Add new year to year's span.
+
+          PINNED: false
+          CLOSE_PREVIOUS: false
