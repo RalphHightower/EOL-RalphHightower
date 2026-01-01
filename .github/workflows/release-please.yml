@@ -6,25 +6,33 @@ on:
 
 permissions:
   actions: none
+  attestations: none
   checks: none
   contents: none
   deployments: none
+  id-token: none
   issues: none
+  discussions: none
   packages: none
+  pages: none
   pull-requests: none
   repository-projects: none
   security-events: none
   statuses: none
-  
-name: release-please
 
 jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
-      - uses: googleapis/release-please-action@4.1.3
+      - name: Harden Runner
+        uses: step-security/harden-runner@20cf305ff2072d973412fa9b1e3a4f227bda3c76 # v2.14.0
+        with:
+          egress-policy: audit
+
+      - uses: googleapis/release-please-action@16a9c90856f42705d54a6fda1823352bdc62cf38 # v4.4.0
         with:
           contents: write
+          pull-requests: write
           # this assumes that you have created a personal access token
           # (PAT) and configured it as a GitHub action secret named
           # `MY_RELEASE_PLEASE_TOKEN` (this secret name is not important).
