@@ -1,0 +1,9 @@
+name: updateLabels.yml – Write labels to a file when there is a change in [a] label(s)
+
+permissions:
+    contents: read
+
+on:
+  label:
+      types: [created, edited, deleted]
+  workflow_dispatch:

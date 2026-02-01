@@ -1,4 +1,7 @@
-# Songs Chosen for the Day
+---
+layout: page
+title: Songs Chosen for the Day
+---
 
 ## Slide show:
 

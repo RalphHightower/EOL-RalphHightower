@@ -1,0 +1,34 @@
+{% assign sorted_tags = site.tags | sort %}
+
+<div class="tag-container my-1 mx-auto justify-center px-4">
+  <div class="m-1 pb-2">
+    <a href="{{ site.baseurl }}/articles">
+      {% if page.url == '/articles' %}
+        {% assign active_class = '!bg-green-200' %}
+      {% else %}
+        {% assign active_class = '' %}
+      {% endif %}
+
+      <button class="{{ active_class }} h-12 w-auto text-xl">
+        {% assign postsCount = site.posts | size %}
+        <h4 class="text-black">all ({{ postsCount }})</h4>
+      </button>
+    </a>
+
+    {% for tag in sorted_tags %} {% assign tagName = tag | first | downcase %}
+    <a href="{{ site.baseurl }}/articles/tags/{{ tagName }}">
+      {% if page.url contains tagName %}
+        {% assign active_class = '!bg-green-200' %}
+      {% else %}
+        {% assign active_class = '' %}
+      {% endif %}
+
+      <button class="{{ active_class }} h-12 w-auto text-xl">
+        {% assign postsCount = tag | last | size %}
+        <h4 class="text-black">{{ tagName }} ({{ postsCount }})</h4>
+      </button>
+    </a>
+
+    {% endfor %}
+  </div>
+</div>

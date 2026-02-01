@@ -1,4 +1,7 @@
-## Accounts
+---
+layout: page
+title: Accounts
+---
 
 | word | definition |
 |------|------------|

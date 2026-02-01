@@ -1,1 +1,4 @@
-## Network Settings
+---
+layout: page
+title: Network Settings
+---

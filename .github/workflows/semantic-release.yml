@@ -16,7 +16,7 @@
 # under the License.
 
 
-name: systematic-release.yml – Pull Request
+name: Semantic Pull Request
 
 on:
   pull_request:
@@ -40,8 +40,12 @@ jobs:
   main:
     runs-on: ubuntu-latest
     steps:
-      name: semantic release
-        uses: amannn/action-semantic-pull-request@v5.5.3
+      - name: Harden Runner
+        uses: step-security/harden-runner@20cf305ff2072d973412fa9b1e3a4f227bda3c76 # v2.14.0
+        with:
+          egress-policy: audit
+
+      - uses: amannn/action-semantic-pull-request@48f256284bd46cdaab1048c3721360e808335d50 # v6.1.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:

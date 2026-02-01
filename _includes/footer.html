@@ -1,0 +1,42 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p class="feed-subscribe">
+          <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
+            <svg class="svg-icon orange">
+              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
+            </svg><span>Subscribe</span>
+          </a>
+        </p>
+        {%- if site.author %}
+        <ul class="contact-list">
+          {% if site.author.name -%}
+            <li class="p-name">{{ site.author.name | escape }}</li>
+          {% endif -%}
+          {% if site.author.email -%}
+            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+          {%- endif %}
+        </ul>
+      {{ site.author }}
+      {%- endif %}
+      </div>
+      <div class="footer-col">
+        <p>{{ site.description | escape }}</p>
+      </div>
+    </div>
+
+    <div class="wrapper">
+      Email Marketing: There are two types of marketing by emails <br />1) Permission based marketing: Send an introductory email asking for permission to send email marketing. If I respond "Okay", then you may proceed.<br />2) Forgiveness based marketing: Spammer just goes ahead and blasts me with spam, offering a link to unsubscribe. Why is it my responsibility to unsubscribe from emails that I never subscribed to?<br />Don't be a jerk. Don't assume that your email "got lost". I received it. It's just a waste of my time to respond. I never buy spammed products.
+    </div>
+
+    <div class="social-links">
+      {%- include social.html -%}
+    </div>
+
+  </div>
+
+</footer>

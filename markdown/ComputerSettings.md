@@ -1,1 +1,4 @@
-## Computer Settings 
+---
+layout: page
+title: Computer Settings 
+---
