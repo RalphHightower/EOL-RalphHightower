@@ -16,12 +16,12 @@ jobs:
       issues: write
     steps:
       - name: Harden the runner (Audit all outbound calls)
-        uses: step-security/harden-runner@20cf305ff2072d973412fa9b1e3a4f227bda3c76 # v2.14.0
+        uses: step-security/harden-runner@8d3c67de8e2fe68ef647c8db1e6a09f647780f40 # v2.19.0
         with:
           egress-policy: audit
 
       - name: Stale Branches
-        uses: crs-k/stale-branches@865501af01284d43aef267d4b9aab0f9f1734b12 # v8.2.2
+        uses: crs-k/stale-branches@3761c6625fc7087355ddc5134bb6acfb36bc80b8 # v9.0.0
         with:
             # days-before-delete: 180
             # comment-updates: false
