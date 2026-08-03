@@ -20,7 +20,7 @@ gem 'minima', '~> 2.5', '>= 2.5.2'
 # If you have any plugins, put them here!
 group :jekyll_plugins do
 gem 'jekyll-avatar', '~> 0.8.0'
-gem 'jekyll-default-layout', '~> 0.1.5'
+gem 'jekyll-default-layout', '~> 0.2.0'
 gem 'jekyll-feed', '~> 0.17.0'
 gem 'jekyll-github-metadata', '~> 2.16', '>= 2.16.1'
 # gem 'jekyll-include-cache', '~> 0.2.1'
