@@ -3,7 +3,9 @@ layout: page
 title: Equipment Disposition
 ---
 
-## The Hix Prohibition
+## The Hix Prohibition[^901]
+
+[^901]: The reason for this prohibition is that the Hixes highjacked a personal call to Paula while she was visiting them and proceeded to be extremely obnoxious assholes. I called Jeff the next day to defend myself and he shut the conversation down, never wanting to speak with me in the future. This happened March 2021. Neither has apologized their abhorrent behavior. I severed my friendship with them June 2021.
 
 The Hix Prohibition Rule applies to Jefferson (Jeff) and/or Roberta (Bert) Hix and/or any proxies representing either person. Under no circumstances will Jefferson and/or Roberta Hix have any opportunity to gain ownership or control of anything. They and/or any of their proxies, designated or clandestine, are prohibited from obtaining any disposed possessions through estate sale, auction, or other means of disposition.
 
@@ -24,8 +26,8 @@ The Hix Prohibition Rule applies to Jefferson (Jeff) and/or Roberta (Bert) Hix a
 
 | Photography Retailers |
 |---------------------------|
-| [KEH](https://www.keh.com) (https://www.keh.com/) is a buyer and seller of **used camera equipment** in Smyrna, Georgia and will be referenced as KEH. |
-| [B&H](https://www.bhphotovideo.com/) (https://www.bhphotovideo.com/) will be referred to as B&H. They are a major retailer, brick and mortar store and online presence, of photography, video, televisions, entertainment systems, computer and accessories, optics, smartphones, tablets and accessories, based in New York City, New York. The company follows the Jewish sabbath and holy holidays. Their hours of operation can be found at: [https://www.bhphotovideo.com/find/HelpCenter/StoreInfo.jsp](https://www.bhphotovideo.com/find/HelpCenter/StoreInfo.jsp). |
+| [KEH](https://www.keh.com) [https://www.keh.com/](https://www.keh.com/) is a buyer and seller of **used camera equipment** in Smyrna, Georgia and will be referenced as KEH. |
+| [B&H](https://www.bhphotovideo.com/) [https://www.bhphotovideo.com/](https://www.bhphotovideo.com/) will be referred to as B&H. They are a major retailer, brick and mortar store and online presence, of photography, video, televisions, entertainment systems, computer and accessories, optics, smartphones, tablets and accessories, based in New York City, New York. The company follows the Jewish sabbath and holy holidays. Their hours of operation can be found at: [https://www.bhphotovideo.com/find/HelpCenter/StoreInfo.jsp](https://www.bhphotovideo.com/find/HelpCenter/StoreInfo.jsp). |
 
 [^11]: [RFC 2119: Key words for use in RFCs to Indicate Requirement Levels](https://www.rfc-editor.org/rfc/rfc2119 )
 
@@ -100,11 +102,11 @@ May be donated to the University of South Carolina College of Engineering, or Le
 | Canon A-1, Motor Drive MA | these have my Social Security Number engraved. Check with KEH to see if they will resell it without the SSN. It must be rendered illegible before disposition. I hate to have it destroyed; but ...
 | Canon A-1 | Bought in as-is condition from KEH to use for parts.|
 | Sunpak 522 Flash | If it has my SSN, render it illegible or else the same thing goes. |
-| Canon Macro Photo Lens 20mm f/3.5 | May be assessed and sold to KEH or gift |
-| Canon Auto Bellows | May be assessed and sold to KEH or gift |
+| Canon Macro Photo Lens 20mm f/3.5 | May be assessed and sold to KEH or gifted |
+| Canon Auto Bellows | May be assessed and sold to KEH or gifted |
 | Canon New F-1, Canon FN Motor Drive FN, Canon AE Finder FN, Canon AE Finder FN, metering screens. | These may be given to someone who promises to use it, shooting with film and it not be a shelf queen. Otherwise, it can be assessed and sold to KEH.|
-| Canon EOS 5D Mark III, Canon EF 24-105mm f4L, Canon RT 600 II flash | Can be sold to KEH. |
-| PlusTek OpticFilm 8200i Ai film scanner, 35mm negative film carriers (2), 35mm slide film carriers (2) | May be assessed and sold to KEH |
+| Canon EOS 5D Mark III, Canon EF 24-105mm f4L, Canon RT 600 II flash | Maybe sold to KEH. |
+| PlusTek OpticFilm 8200i Ai film scanner, 35mm negative film carriers (2), 35mm slide film carriers (2) | May be assessed and sold to KEH. |
 
 ## 20 volt, 80 volt power equipment
 
@@ -114,7 +116,7 @@ There is an Excel spreadsheet on my computer that has the purchase date and pric
 
 - Dewalt 20 volt power tools, batteries, and chargers, including accessories, such as drill bits, etc. may be sold or gifted.
 
-| Model Number | Description |
+| Model Number | Description[^111] |
 |--------------|-------------|
 | DCPW550P1|DEWALT 20V MAX 550 PSI 1.0 GPM Cold Water Cordless Electric Power Cleaner with 4 Nozzles, (1) 5.0 Ah Battery and Charger |
 | DCB203 ||
@@ -156,7 +158,7 @@ There is an Excel spreadsheet on my computer that has the purchase date and pric
 
 Kobalt 80-volt outdoor power tools may be sold or gifted.
 
-| Model Number[^111] | Description |
+| Model Number | Description[^111] |
 |------------------|-----------------|
 | #KIV 3080-06 | Kobalt 300-Watt Battery Operated Power Inverter |
 | #KCS 4080-06 | Kobalt 80-Volt Max 18-in Brushless Cordless Electric Chainsaw 5 Ah (Battery & Charger Included) |
