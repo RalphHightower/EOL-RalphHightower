@@ -2,8 +2,8 @@ name: stale-branches.yml – Delete Stale Branches
 
 on:
   workflow_dispatch:  # Manual trigger from GitHub UI
-  schedule:
-    - cron: '0 6 * * 0'
+  schedule: # 2	3	5	7	11	13	17	19	23	29	31	37	41	43	47	53	59
+    - cron: '7 0 * * 0'
 
 permissions: 
   contents: read
@@ -16,12 +16,12 @@ jobs:
       issues: write
     steps:
       - name: Harden the runner (Audit all outbound calls)
-        uses: step-security/harden-runner@9af89fc71515a100421586dfdb3dc9c984fbf411 # v2.19.4
+        uses: step-security/harden-runner@1d88384fd173af6ecb012dfd0264a306b711241a # v2.22.4
         with:
           egress-policy: audit
 
       - name: Stale Branches
-        uses: crs-k/stale-branches@e876b957ab08f0bad43c8cc271a22cdd7604bd09 # v9.0.1
+        uses: crs-k/stale-branches@138918e25f06d439bf76db5305a591d8a3c03678 # v10.0.0
         with:
             # days-before-delete: 180
             # comment-updates: false
